@@ -635,14 +635,13 @@ public class HomePage extends javax.swing.JFrame {
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("Our Best Sellers");
         homePanel.add(jLabel3);
-        jLabel3.setBounds(370, 300, 290, 40);
+        jLabel3.setBounds(340, 300, 350, 40);
 
         jPanel68.setBackground(new java.awt.Color(255, 255, 255));
 
         jPanel71.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel128.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel128.setForeground(new java.awt.Color(0, 0, 0));
         jLabel128.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel128.setText("Zero Sauvignon Blanc");
 
@@ -651,12 +650,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel129.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel130.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel130.setForeground(new java.awt.Color(0, 0, 0));
         jLabel130.setText("10,60 €");
 
         jButton31.setBackground(new java.awt.Color(179, 110, 120));
         jButton31.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton31.setForeground(new java.awt.Color(0, 0, 0));
         jButton31.setText("Buy");
 
         javax.swing.GroupLayout jPanel71Layout = new javax.swing.GroupLayout(jPanel71);
@@ -722,7 +719,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel73.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel136.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel136.setForeground(new java.awt.Color(0, 0, 0));
         jLabel136.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel136.setText("Zero Sauvignon Blanc");
 
@@ -731,12 +727,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel137.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel138.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel138.setForeground(new java.awt.Color(0, 0, 0));
         jLabel138.setText("10,60 €");
 
         jButton33.setBackground(new java.awt.Color(179, 110, 120));
         jButton33.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton33.setForeground(new java.awt.Color(0, 0, 0));
         jButton33.setText("Buy");
 
         javax.swing.GroupLayout jPanel73Layout = new javax.swing.GroupLayout(jPanel73);
@@ -802,7 +796,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel75.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel140.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel140.setForeground(new java.awt.Color(0, 0, 0));
         jLabel140.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel140.setText("Zero Sauvignon Blanc");
 
@@ -811,12 +804,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel141.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel142.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel142.setForeground(new java.awt.Color(0, 0, 0));
         jLabel142.setText("10,60 €");
 
         jButton34.setBackground(new java.awt.Color(179, 110, 120));
         jButton34.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton34.setForeground(new java.awt.Color(0, 0, 0));
         jButton34.setText("Buy");
 
         javax.swing.GroupLayout jPanel75Layout = new javax.swing.GroupLayout(jPanel75);
@@ -922,7 +913,7 @@ public class HomePage extends javax.swing.JFrame {
         jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
         jLabel7.setText(" ");
         jPanel5.add(jLabel7);
-        jLabel7.setBounds(0, 0, 207, 210);
+        jLabel7.setBounds(0, 0, 208, 210);
 
         winePanel.add(jPanel5);
         jPanel5.setBounds(420, 300, 200, 210);
@@ -963,7 +954,7 @@ public class HomePage extends javax.swing.JFrame {
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
         jLabel6.setText(" ");
         jPanel8.add(jLabel6);
-        jLabel6.setBounds(0, 0, 207, 210);
+        jLabel6.setBounds(0, 0, 208, 210);
 
         winePanel.add(jPanel8);
         jPanel8.setBounds(80, 300, 200, 210);
@@ -1003,7 +994,7 @@ public class HomePage extends javax.swing.JFrame {
         jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
         jLabel8.setText(" ");
         jPanel10.add(jLabel8);
-        jLabel8.setBounds(0, 0, 207, 210);
+        jLabel8.setBounds(0, 0, 208, 210);
 
         winePanel.add(jPanel10);
         jPanel10.setBounds(760, 300, 200, 210);
@@ -1037,7 +1028,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel22.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel21.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel21.setForeground(new java.awt.Color(0, 0, 0));
         jLabel21.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel21.setText("Zero Sauvignon Blanc");
 
@@ -1046,12 +1036,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel22.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel23.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel23.setForeground(new java.awt.Color(0, 0, 0));
         jLabel23.setText("10,60 €");
 
         jButton6.setBackground(new java.awt.Color(179, 110, 120));
         jButton6.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton6.setForeground(new java.awt.Color(0, 0, 0));
         jButton6.setText("Buy");
 
         javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
@@ -1117,7 +1105,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel24.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel27.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel27.setForeground(new java.awt.Color(0, 0, 0));
         jLabel27.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel27.setText("Zero Sauvignon Blanc");
 
@@ -1126,12 +1113,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel28.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel29.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel29.setForeground(new java.awt.Color(0, 0, 0));
         jLabel29.setText("10,60 €");
 
         jButton8.setBackground(new java.awt.Color(179, 110, 120));
         jButton8.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton8.setForeground(new java.awt.Color(0, 0, 0));
         jButton8.setText("Buy");
 
         javax.swing.GroupLayout jPanel24Layout = new javax.swing.GroupLayout(jPanel24);
@@ -1197,7 +1182,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel21.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel18.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel18.setForeground(new java.awt.Color(0, 0, 0));
         jLabel18.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel18.setText("Zero Sauvignon Blanc");
 
@@ -1206,12 +1190,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel19.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel20.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel20.setForeground(new java.awt.Color(0, 0, 0));
         jLabel20.setText("10,60 €");
 
         jButton5.setBackground(new java.awt.Color(179, 110, 120));
         jButton5.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton5.setForeground(new java.awt.Color(0, 0, 0));
         jButton5.setText("Buy");
 
         javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
@@ -1277,7 +1259,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel23.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel24.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel24.setForeground(new java.awt.Color(0, 0, 0));
         jLabel24.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel24.setText("Zero Sauvignon Blanc");
 
@@ -1286,12 +1267,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel25.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel26.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel26.setForeground(new java.awt.Color(0, 0, 0));
         jLabel26.setText("10,60 €");
 
         jButton7.setBackground(new java.awt.Color(179, 110, 120));
         jButton7.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton7.setForeground(new java.awt.Color(0, 0, 0));
         jButton7.setText("Buy");
 
         javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
@@ -1357,7 +1336,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel18.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel9.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel9.setForeground(new java.awt.Color(0, 0, 0));
         jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel9.setText("Zero Sauvignon Blanc");
 
@@ -1366,12 +1344,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel10.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel11.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel11.setForeground(new java.awt.Color(0, 0, 0));
         jLabel11.setText("10,60 €");
 
         jButton2.setBackground(new java.awt.Color(179, 110, 120));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton2.setForeground(new java.awt.Color(0, 0, 0));
         jButton2.setText("Buy");
 
         javax.swing.GroupLayout jPanel18Layout = new javax.swing.GroupLayout(jPanel18);
@@ -1437,7 +1413,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel19.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel12.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel12.setForeground(new java.awt.Color(0, 0, 0));
         jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel12.setText("Zero Sauvignon Blanc");
 
@@ -1446,12 +1421,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel13.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel14.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel14.setForeground(new java.awt.Color(0, 0, 0));
         jLabel14.setText("10,60 €");
 
         jButton3.setBackground(new java.awt.Color(179, 110, 120));
         jButton3.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton3.setForeground(new java.awt.Color(0, 0, 0));
         jButton3.setText("Buy");
 
         javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
@@ -1517,7 +1490,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel20.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel15.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel15.setForeground(new java.awt.Color(0, 0, 0));
         jLabel15.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel15.setText("Zero Sauvignon Blanc");
 
@@ -1526,12 +1498,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel16.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel17.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel17.setForeground(new java.awt.Color(0, 0, 0));
         jLabel17.setText("10,60 €");
 
         jButton4.setBackground(new java.awt.Color(179, 110, 120));
         jButton4.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton4.setForeground(new java.awt.Color(0, 0, 0));
         jButton4.setText("Buy");
 
         javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
@@ -1597,7 +1567,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel70.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel131.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel131.setForeground(new java.awt.Color(0, 0, 0));
         jLabel131.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel131.setText("Zero Sauvignon Blanc");
 
@@ -1606,12 +1575,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel132.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel133.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel133.setForeground(new java.awt.Color(0, 0, 0));
         jLabel133.setText("10,60 €");
 
         jButton32.setBackground(new java.awt.Color(179, 110, 120));
         jButton32.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton32.setForeground(new java.awt.Color(0, 0, 0));
         jButton32.setText("Buy");
 
         javax.swing.GroupLayout jPanel70Layout = new javax.swing.GroupLayout(jPanel70);
@@ -1696,7 +1663,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel26.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel39.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel39.setForeground(new java.awt.Color(0, 0, 0));
         jLabel39.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel39.setText("Zero Sauvignon Blanc");
 
@@ -1705,12 +1671,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel40.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel41.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel41.setForeground(new java.awt.Color(0, 0, 0));
         jLabel41.setText("10,60 €");
 
         jButton9.setBackground(new java.awt.Color(179, 110, 120));
         jButton9.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton9.setForeground(new java.awt.Color(0, 0, 0));
         jButton9.setText("Buy");
 
         javax.swing.GroupLayout jPanel26Layout = new javax.swing.GroupLayout(jPanel26);
@@ -1776,7 +1740,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel28.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel43.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel43.setForeground(new java.awt.Color(0, 0, 0));
         jLabel43.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel43.setText("Zero Sauvignon Blanc");
 
@@ -1785,12 +1748,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel44.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel45.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel45.setForeground(new java.awt.Color(0, 0, 0));
         jLabel45.setText("10,60 €");
 
         jButton10.setBackground(new java.awt.Color(179, 110, 120));
         jButton10.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton10.setForeground(new java.awt.Color(0, 0, 0));
         jButton10.setText("Buy");
 
         javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
@@ -1856,7 +1817,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel30.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel47.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel47.setForeground(new java.awt.Color(0, 0, 0));
         jLabel47.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel47.setText("Zero Sauvignon Blanc");
 
@@ -1865,12 +1825,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel48.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel49.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel49.setForeground(new java.awt.Color(0, 0, 0));
         jLabel49.setText("10,60 €");
 
         jButton11.setBackground(new java.awt.Color(179, 110, 120));
         jButton11.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton11.setForeground(new java.awt.Color(0, 0, 0));
         jButton11.setText("Buy");
 
         javax.swing.GroupLayout jPanel30Layout = new javax.swing.GroupLayout(jPanel30);
@@ -1936,7 +1894,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel32.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel51.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel51.setForeground(new java.awt.Color(0, 0, 0));
         jLabel51.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel51.setText("Zero Sauvignon Blanc");
 
@@ -1945,12 +1902,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel52.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel53.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel53.setForeground(new java.awt.Color(0, 0, 0));
         jLabel53.setText("10,60 €");
 
         jButton12.setBackground(new java.awt.Color(179, 110, 120));
         jButton12.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton12.setForeground(new java.awt.Color(0, 0, 0));
         jButton12.setText("Buy");
 
         javax.swing.GroupLayout jPanel32Layout = new javax.swing.GroupLayout(jPanel32);
@@ -2016,7 +1971,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel34.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel55.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel55.setForeground(new java.awt.Color(0, 0, 0));
         jLabel55.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel55.setText("Zero Sauvignon Blanc");
 
@@ -2025,12 +1979,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel56.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel57.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel57.setForeground(new java.awt.Color(0, 0, 0));
         jLabel57.setText("10,60 €");
 
         jButton13.setBackground(new java.awt.Color(179, 110, 120));
         jButton13.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton13.setForeground(new java.awt.Color(0, 0, 0));
         jButton13.setText("Buy");
 
         javax.swing.GroupLayout jPanel34Layout = new javax.swing.GroupLayout(jPanel34);
@@ -2096,7 +2048,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel36.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel59.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel59.setForeground(new java.awt.Color(0, 0, 0));
         jLabel59.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel59.setText("Zero Sauvignon Blanc");
 
@@ -2105,12 +2056,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel60.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel61.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel61.setForeground(new java.awt.Color(0, 0, 0));
         jLabel61.setText("10,60 €");
 
         jButton14.setBackground(new java.awt.Color(179, 110, 120));
         jButton14.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton14.setForeground(new java.awt.Color(0, 0, 0));
         jButton14.setText("Buy");
 
         javax.swing.GroupLayout jPanel36Layout = new javax.swing.GroupLayout(jPanel36);
@@ -2176,7 +2125,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel38.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel63.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel63.setForeground(new java.awt.Color(0, 0, 0));
         jLabel63.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel63.setText("Zero Sauvignon Blanc");
 
@@ -2185,12 +2133,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel64.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel65.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel65.setForeground(new java.awt.Color(0, 0, 0));
         jLabel65.setText("10,60 €");
 
         jButton15.setBackground(new java.awt.Color(179, 110, 120));
         jButton15.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton15.setForeground(new java.awt.Color(0, 0, 0));
         jButton15.setText("Buy");
 
         javax.swing.GroupLayout jPanel38Layout = new javax.swing.GroupLayout(jPanel38);
@@ -2256,7 +2202,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel40.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel67.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel67.setForeground(new java.awt.Color(0, 0, 0));
         jLabel67.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel67.setText("Zero Sauvignon Blanc");
 
@@ -2265,12 +2210,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel68.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel69.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel69.setForeground(new java.awt.Color(0, 0, 0));
         jLabel69.setText("10,60 €");
 
         jButton16.setBackground(new java.awt.Color(179, 110, 120));
         jButton16.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton16.setForeground(new java.awt.Color(0, 0, 0));
         jButton16.setText("Buy");
 
         javax.swing.GroupLayout jPanel40Layout = new javax.swing.GroupLayout(jPanel40);
@@ -2355,7 +2298,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel42.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel72.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel72.setForeground(new java.awt.Color(0, 0, 0));
         jLabel72.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel72.setText("Zero Sauvignon Blanc");
 
@@ -2364,12 +2306,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel73.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel74.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel74.setForeground(new java.awt.Color(0, 0, 0));
         jLabel74.setText("10,60 €");
 
         jButton17.setBackground(new java.awt.Color(179, 110, 120));
         jButton17.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton17.setForeground(new java.awt.Color(0, 0, 0));
         jButton17.setText("Buy");
 
         javax.swing.GroupLayout jPanel42Layout = new javax.swing.GroupLayout(jPanel42);
@@ -2435,7 +2375,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel44.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel76.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel76.setForeground(new java.awt.Color(0, 0, 0));
         jLabel76.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel76.setText("Zero Sauvignon Blanc");
 
@@ -2444,12 +2383,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel77.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel78.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel78.setForeground(new java.awt.Color(0, 0, 0));
         jLabel78.setText("10,60 €");
 
         jButton18.setBackground(new java.awt.Color(179, 110, 120));
         jButton18.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton18.setForeground(new java.awt.Color(0, 0, 0));
         jButton18.setText("Buy");
 
         javax.swing.GroupLayout jPanel44Layout = new javax.swing.GroupLayout(jPanel44);
@@ -2515,7 +2452,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel46.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel80.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel80.setForeground(new java.awt.Color(0, 0, 0));
         jLabel80.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel80.setText("Zero Sauvignon Blanc");
 
@@ -2524,12 +2460,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel81.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel82.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel82.setForeground(new java.awt.Color(0, 0, 0));
         jLabel82.setText("10,60 €");
 
         jButton19.setBackground(new java.awt.Color(179, 110, 120));
         jButton19.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton19.setForeground(new java.awt.Color(0, 0, 0));
         jButton19.setText("Buy");
 
         javax.swing.GroupLayout jPanel46Layout = new javax.swing.GroupLayout(jPanel46);
@@ -2595,7 +2529,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel48.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel84.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel84.setForeground(new java.awt.Color(0, 0, 0));
         jLabel84.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel84.setText("Zero Sauvignon Blanc");
 
@@ -2604,12 +2537,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel85.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel86.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel86.setForeground(new java.awt.Color(0, 0, 0));
         jLabel86.setText("10,60 €");
 
         jButton20.setBackground(new java.awt.Color(179, 110, 120));
         jButton20.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton20.setForeground(new java.awt.Color(0, 0, 0));
         jButton20.setText("Buy");
 
         javax.swing.GroupLayout jPanel48Layout = new javax.swing.GroupLayout(jPanel48);
@@ -2675,7 +2606,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel50.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel88.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel88.setForeground(new java.awt.Color(0, 0, 0));
         jLabel88.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel88.setText("Zero Sauvignon Blanc");
 
@@ -2684,12 +2614,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel89.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel90.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel90.setForeground(new java.awt.Color(0, 0, 0));
         jLabel90.setText("10,60 €");
 
         jButton21.setBackground(new java.awt.Color(179, 110, 120));
         jButton21.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton21.setForeground(new java.awt.Color(0, 0, 0));
         jButton21.setText("Buy");
 
         javax.swing.GroupLayout jPanel50Layout = new javax.swing.GroupLayout(jPanel50);
@@ -2755,7 +2683,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel52.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel92.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel92.setForeground(new java.awt.Color(0, 0, 0));
         jLabel92.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel92.setText("Zero Sauvignon Blanc");
 
@@ -2764,12 +2691,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel93.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel94.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel94.setForeground(new java.awt.Color(0, 0, 0));
         jLabel94.setText("10,60 €");
 
         jButton22.setBackground(new java.awt.Color(179, 110, 120));
         jButton22.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton22.setForeground(new java.awt.Color(0, 0, 0));
         jButton22.setText("Buy");
 
         javax.swing.GroupLayout jPanel52Layout = new javax.swing.GroupLayout(jPanel52);
@@ -2835,7 +2760,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel54.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel96.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel96.setForeground(new java.awt.Color(0, 0, 0));
         jLabel96.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel96.setText("Zero Sauvignon Blanc");
 
@@ -2844,12 +2768,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel97.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel98.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel98.setForeground(new java.awt.Color(0, 0, 0));
         jLabel98.setText("10,60 €");
 
         jButton23.setBackground(new java.awt.Color(179, 110, 120));
         jButton23.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton23.setForeground(new java.awt.Color(0, 0, 0));
         jButton23.setText("Buy");
 
         javax.swing.GroupLayout jPanel54Layout = new javax.swing.GroupLayout(jPanel54);
@@ -2915,7 +2837,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel56.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel100.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel100.setForeground(new java.awt.Color(0, 0, 0));
         jLabel100.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel100.setText("Zero Sauvignon Blanc");
 
@@ -2924,12 +2845,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel101.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel102.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel102.setForeground(new java.awt.Color(0, 0, 0));
         jLabel102.setText("10,60 €");
 
         jButton24.setBackground(new java.awt.Color(179, 110, 120));
         jButton24.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton24.setForeground(new java.awt.Color(0, 0, 0));
         jButton24.setText("Buy");
 
         javax.swing.GroupLayout jPanel56Layout = new javax.swing.GroupLayout(jPanel56);
@@ -2995,7 +2914,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel58.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel104.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel104.setForeground(new java.awt.Color(0, 0, 0));
         jLabel104.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel104.setText("Zero Sauvignon Blanc");
 
@@ -3004,12 +2922,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel105.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel106.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel106.setForeground(new java.awt.Color(0, 0, 0));
         jLabel106.setText("10,60 €");
 
         jButton25.setBackground(new java.awt.Color(179, 110, 120));
         jButton25.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton25.setForeground(new java.awt.Color(0, 0, 0));
         jButton25.setText("Buy");
 
         javax.swing.GroupLayout jPanel58Layout = new javax.swing.GroupLayout(jPanel58);
@@ -3075,7 +2991,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel60.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel108.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel108.setForeground(new java.awt.Color(0, 0, 0));
         jLabel108.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel108.setText("Zero Sauvignon Blanc");
 
@@ -3084,12 +2999,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel109.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel110.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel110.setForeground(new java.awt.Color(0, 0, 0));
         jLabel110.setText("10,60 €");
 
         jButton26.setBackground(new java.awt.Color(179, 110, 120));
         jButton26.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton26.setForeground(new java.awt.Color(0, 0, 0));
         jButton26.setText("Buy");
 
         javax.swing.GroupLayout jPanel60Layout = new javax.swing.GroupLayout(jPanel60);
@@ -3155,7 +3068,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel62.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel112.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel112.setForeground(new java.awt.Color(0, 0, 0));
         jLabel112.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel112.setText("Zero Sauvignon Blanc");
 
@@ -3164,12 +3076,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel113.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel114.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel114.setForeground(new java.awt.Color(0, 0, 0));
         jLabel114.setText("10,60 €");
 
         jButton27.setBackground(new java.awt.Color(179, 110, 120));
         jButton27.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton27.setForeground(new java.awt.Color(0, 0, 0));
         jButton27.setText("Buy");
 
         javax.swing.GroupLayout jPanel62Layout = new javax.swing.GroupLayout(jPanel62);
@@ -3235,7 +3145,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel64.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel116.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel116.setForeground(new java.awt.Color(0, 0, 0));
         jLabel116.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel116.setText("Zero Sauvignon Blanc");
 
@@ -3244,12 +3153,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel117.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel118.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel118.setForeground(new java.awt.Color(0, 0, 0));
         jLabel118.setText("10,60 €");
 
         jButton28.setBackground(new java.awt.Color(179, 110, 120));
         jButton28.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton28.setForeground(new java.awt.Color(0, 0, 0));
         jButton28.setText("Buy");
 
         javax.swing.GroupLayout jPanel64Layout = new javax.swing.GroupLayout(jPanel64);
@@ -3315,7 +3222,6 @@ public class HomePage extends javax.swing.JFrame {
         jPanel66.setBackground(new java.awt.Color(255, 255, 255));
 
         jLabel120.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel120.setForeground(new java.awt.Color(0, 0, 0));
         jLabel120.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel120.setText("Zero Sauvignon Blanc");
 
@@ -3324,12 +3230,10 @@ public class HomePage extends javax.swing.JFrame {
         jLabel121.setText("Ξηρός, Ήπιος, Λευκός");
 
         jLabel122.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel122.setForeground(new java.awt.Color(0, 0, 0));
         jLabel122.setText("10,60 €");
 
         jButton29.setBackground(new java.awt.Color(179, 110, 120));
         jButton29.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton29.setForeground(new java.awt.Color(0, 0, 0));
         jButton29.setText("Buy");
 
         javax.swing.GroupLayout jPanel66Layout = new javax.swing.GroupLayout(jPanel66);
@@ -3611,7 +3515,6 @@ public class HomePage extends javax.swing.JFrame {
     private javax.swing.JButton jButton28;
     private javax.swing.JButton jButton29;
     private javax.swing.JButton jButton3;
-    private javax.swing.JButton jButton30;
     private javax.swing.JButton jButton31;
     private javax.swing.JButton jButton32;
     private javax.swing.JButton jButton33;
@@ -3651,9 +3554,6 @@ public class HomePage extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel122;
     private javax.swing.JLabel jLabel123;
     private javax.swing.JLabel jLabel124;
-    private javax.swing.JLabel jLabel125;
-    private javax.swing.JLabel jLabel126;
-    private javax.swing.JLabel jLabel127;
     private javax.swing.JLabel jLabel128;
     private javax.swing.JLabel jLabel129;
     private javax.swing.JLabel jLabel13;
@@ -3831,7 +3731,6 @@ public class HomePage extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel64;
     private javax.swing.JPanel jPanel65;
     private javax.swing.JPanel jPanel66;
-    private javax.swing.JPanel jPanel67;
     private javax.swing.JPanel jPanel68;
     private javax.swing.JPanel jPanel69;
     private javax.swing.JPanel jPanel7;
