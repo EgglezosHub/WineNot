@@ -26,129 +26,147 @@ public class ProductSquerePanel extends javax.swing.JPanel {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jPanel72 = new javax.swing.JPanel();
-        jPanel73 = new javax.swing.JPanel();
-        jLabel136 = new javax.swing.JLabel();
-        jLabel137 = new javax.swing.JLabel();
-        jLabel138 = new javax.swing.JLabel();
-        jButton33 = new javax.swing.JButton();
-        jButton35 = new javax.swing.JButton();
-        jLabel139 = new javax.swing.JLabel();
+        productSquerePanel = new javax.swing.JPanel();
+        descriptionSquerePanel = new javax.swing.JPanel();
+        titleSquere = new javax.swing.JLabel();
+        infoSquere = new javax.swing.JLabel();
+        priceSquere = new javax.swing.JLabel();
+        buyButtonSquere = new javax.swing.JButton();
+        likeButtonSquere = new javax.swing.JButton();
+        photoCodeSquere = new javax.swing.JLabel();
 
-        setBackground(new java.awt.Color(179, 110, 120));
+        setBackground(new java.awt.Color(255, 255, 255));
 
-        jPanel72.setBackground(new java.awt.Color(179, 110, 120));
+        productSquerePanel.setBackground(new java.awt.Color(255, 255, 255));
 
-        jPanel73.setBackground(new java.awt.Color(179, 110, 120));
+        descriptionSquerePanel.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel136.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel136.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel136.setText("Zero Sauvignon Blanc");
+        titleSquere.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        titleSquere.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        titleSquere.setText("Zero Sauvignon Blanc");
 
-        jLabel137.setForeground(new java.awt.Color(51, 51, 51));
-        jLabel137.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel137.setText("Ξηρός, Ήπιος, Λευκός");
+        infoSquere.setForeground(new java.awt.Color(51, 51, 51));
+        infoSquere.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        infoSquere.setText("Ξηρός, Ήπιος, Λευκός");
 
-        jLabel138.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
-        jLabel138.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel138.setText("10,60 €");
+        priceSquere.setFont(new java.awt.Font("Segoe UI", 3, 14)); // NOI18N
+        priceSquere.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        priceSquere.setText("10,60 €");
 
-        jButton33.setBackground(new java.awt.Color(179, 110, 120));
-        jButton33.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton33.setText("Buy");
+        buyButtonSquere.setBackground(new java.awt.Color(179, 110, 120));
+        buyButtonSquere.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        buyButtonSquere.setText("Buy");
 
-        jButton35.setBackground(new java.awt.Color(179, 110, 120));
-        jButton35.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        jButton35.setText("♡");
-        jButton35.addActionListener(new java.awt.event.ActionListener() {
+        likeButtonSquere.setBackground(new java.awt.Color(179, 110, 120));
+        likeButtonSquere.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+        likeButtonSquere.setText("♡");
+        likeButtonSquere.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton35ActionPerformed(evt);
+                likeButtonSquereActionPerformed(evt);
             }
         });
 
-        javax.swing.GroupLayout jPanel73Layout = new javax.swing.GroupLayout(jPanel73);
-        jPanel73.setLayout(jPanel73Layout);
-        jPanel73Layout.setHorizontalGroup(
-            jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel73Layout.createSequentialGroup()
+        javax.swing.GroupLayout descriptionSquerePanelLayout = new javax.swing.GroupLayout(descriptionSquerePanel);
+        descriptionSquerePanel.setLayout(descriptionSquerePanelLayout);
+        descriptionSquerePanelLayout.setHorizontalGroup(
+            descriptionSquerePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(descriptionSquerePanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel136, javax.swing.GroupLayout.DEFAULT_SIZE, 158, Short.MAX_VALUE)
-                    .addComponent(jLabel137, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addGroup(jPanel73Layout.createSequentialGroup()
-                        .addComponent(jLabel138)
+                .addGroup(descriptionSquerePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(titleSquere, javax.swing.GroupLayout.DEFAULT_SIZE, 158, Short.MAX_VALUE)
+                    .addComponent(infoSquere, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(descriptionSquerePanelLayout.createSequentialGroup()
+                        .addComponent(priceSquere)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jButton35, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(likeButtonSquere, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jButton33, javax.swing.GroupLayout.PREFERRED_SIZE, 58, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(buyButtonSquere, javax.swing.GroupLayout.PREFERRED_SIZE, 58, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(8, 8, 8)))
                 .addContainerGap())
         );
-        jPanel73Layout.setVerticalGroup(
-            jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel73Layout.createSequentialGroup()
+        descriptionSquerePanelLayout.setVerticalGroup(
+            descriptionSquerePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(descriptionSquerePanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel136)
+                .addComponent(titleSquere)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel137)
+                .addComponent(infoSquere)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel138)
-                    .addComponent(jButton33)
-                    .addComponent(jButton35))
+                .addGroup(descriptionSquerePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(priceSquere)
+                    .addComponent(buyButtonSquere)
+                    .addComponent(likeButtonSquere))
                 .addContainerGap())
         );
 
-        jLabel139.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel139.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel139.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel139.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image-from-rawpixel-id-6469258-png (1).png"))); // NOI18N
-        jLabel139.setText(" ");
+        photoCodeSquere.setBackground(new java.awt.Color(255, 255, 255));
+        photoCodeSquere.setForeground(new java.awt.Color(255, 255, 255));
+        photoCodeSquere.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        photoCodeSquere.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/wineImage.png"))); // NOI18N
+        photoCodeSquere.setText(" ");
 
-        javax.swing.GroupLayout jPanel72Layout = new javax.swing.GroupLayout(jPanel72);
-        jPanel72.setLayout(jPanel72Layout);
-        jPanel72Layout.setHorizontalGroup(
-            jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel73, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel72Layout.createSequentialGroup()
+        javax.swing.GroupLayout productSquerePanelLayout = new javax.swing.GroupLayout(productSquerePanel);
+        productSquerePanel.setLayout(productSquerePanelLayout);
+        productSquerePanelLayout.setHorizontalGroup(
+            productSquerePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(descriptionSquerePanel, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, productSquerePanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel139, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(photoCodeSquere, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
-        jPanel72Layout.setVerticalGroup(
-            jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel72Layout.createSequentialGroup()
+        productSquerePanelLayout.setVerticalGroup(
+            productSquerePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, productSquerePanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel139, javax.swing.GroupLayout.PREFERRED_SIZE, 109, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(photoCodeSquere, javax.swing.GroupLayout.PREFERRED_SIZE, 109, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 10, Short.MAX_VALUE)
-                .addComponent(jPanel73, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addComponent(descriptionSquerePanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel72, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+            .addComponent(productSquerePanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel72, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+            .addComponent(productSquerePanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jButton35ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton35ActionPerformed
+    public void setTitleSquere(String title) {
+        titleSquere.setText(title);
+    }
+
+    public void setPriceSquere(String price) {
+        priceSquere.setText(price);
+    }
+
+    public void setinfoSquere(String info) {
+        infoSquere.setText(info);
+    }
+    
+    public void setImageSquere(String photoCode){
+        String loc = "/winepackage/images/" + "1" + ".png";
+        photoCodeSquere.setIcon(new javax.swing.ImageIcon(getClass().getResource(loc)));
+    }
+
+    
+    private void likeButtonSquereActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_likeButtonSquereActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jButton35ActionPerformed
+    }//GEN-LAST:event_likeButtonSquereActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButton33;
-    private javax.swing.JButton jButton35;
-    private javax.swing.JLabel jLabel136;
-    private javax.swing.JLabel jLabel137;
-    private javax.swing.JLabel jLabel138;
-    private javax.swing.JLabel jLabel139;
-    private javax.swing.JPanel jPanel72;
-    private javax.swing.JPanel jPanel73;
+    private javax.swing.JButton buyButtonSquere;
+    private javax.swing.JPanel descriptionSquerePanel;
+    public javax.swing.JLabel infoSquere;
+    private javax.swing.JButton likeButtonSquere;
+    public javax.swing.JLabel photoCodeSquere;
+    public javax.swing.JLabel priceSquere;
+    private javax.swing.JPanel productSquerePanel;
+    public javax.swing.JLabel titleSquere;
     // End of variables declaration//GEN-END:variables
 }
