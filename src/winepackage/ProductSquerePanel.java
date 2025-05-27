@@ -144,6 +144,7 @@ public class ProductSquerePanel extends javax.swing.JPanel {
         priceSquere.setText(price);
     }
 
+    
     public void setinfoSquere(String info) {
         infoSquere.setText(info);
     }
