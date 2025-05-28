@@ -16,17 +16,17 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+          <Component id="productBoxPanel" alignment="0" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+          <Component id="productBoxPanel" alignment="0" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Container class="javax.swing.JPanel" name="jPanel2">
+    <Container class="javax.swing.JPanel" name="productBoxPanel">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -37,7 +37,7 @@
         <Property name="axis" type="int" value="0"/>
       </Layout>
       <SubComponents>
-        <Container class="javax.swing.JPanel" name="jPanel70">
+        <Container class="javax.swing.JPanel" name="productBoxCont">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -49,20 +49,20 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jLabel2" min="-2" pref="172" max="-2" attributes="0"/>
+                      <Component id="productPhoto" min="-2" pref="172" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
-                              <Component id="jLabel133" max="32767" attributes="0"/>
+                              <Component id="productPrice" max="32767" attributes="0"/>
                           </Group>
-                          <Component id="jLabel132" alignment="1" max="32767" attributes="0"/>
-                          <Component id="jLabel131" alignment="1" pref="624" max="32767" attributes="0"/>
+                          <Component id="productInfo" alignment="1" max="32767" attributes="0"/>
+                          <Component id="productTitle" alignment="1" pref="624" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace pref="50" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="jButton32" min="-2" pref="58" max="-2" attributes="0"/>
-                          <Component id="jButton1" max="32767" attributes="0"/>
+                          <Component id="productLikeBtn" min="-2" pref="58" max="-2" attributes="0"/>
+                          <Component id="productBuyBtn" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
                   </Group>
@@ -76,25 +76,25 @@
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" attributes="0">
                                       <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
-                                      <Component id="jLabel131" min="-2" max="-2" attributes="0"/>
+                                      <Component id="productTitle" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                                      <Component id="jLabel132" min="-2" max="-2" attributes="0"/>
+                                      <Component id="productInfo" min="-2" max="-2" attributes="0"/>
                                       <EmptySpace pref="12" max="32767" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <EmptySpace max="32767" attributes="0"/>
-                                      <Component id="jButton1" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <Component id="productBuyBtn" min="-2" pref="51" max="-2" attributes="0"/>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <Group type="103" groupAlignment="3" attributes="0">
-                                  <Component id="jLabel133" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  <Component id="jButton32" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="productPrice" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="productLikeBtn" alignment="3" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                           <Group type="102" alignment="1" attributes="0">
                               <EmptySpace max="32767" attributes="0"/>
-                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                              <Component id="productPhoto" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
@@ -103,19 +103,16 @@
             </DimensionLayout>
           </Layout>
           <SubComponents>
-            <Component class="javax.swing.JLabel" name="jLabel131">
+            <Component class="javax.swing.JLabel" name="productTitle">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Segoe UI" size="24" style="1"/>
-                </Property>
-                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="0" green="0" red="0" type="rgb"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="text" type="java.lang.String" value="Zero Sauvignon Blanc"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel132">
+            <Component class="javax.swing.JLabel" name="productInfo">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Segoe UI" size="14" style="0"/>
@@ -127,7 +124,7 @@
                 <Property name="text" type="java.lang.String" value="&#x39e;&#x3b7;&#x3c1;&#x3cc;&#x3c2;, &#x389;&#x3c0;&#x3b9;&#x3bf;&#x3c2;, &#x39b;&#x3b5;&#x3c5;&#x3ba;&#x3cc;&#x3c2;"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel133">
+            <Component class="javax.swing.JLabel" name="productPrice">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="0" green="0" red="0" type="rgb"/>
@@ -135,14 +132,11 @@
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Segoe UI" size="14" style="3"/>
                 </Property>
-                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="0" green="0" red="0" type="rgb"/>
-                </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="text" type="java.lang.String" value="10,60&#xa0;&#x20ac;"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton32">
+            <Component class="javax.swing.JButton" name="productLikeBtn">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="78" green="6e" red="b3" type="rgb"/>
@@ -153,16 +147,16 @@
                 <Property name="text" type="java.lang.String" value="Buy"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel2">
+            <Component class="javax.swing.JLabel" name="productPhoto">
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/winepackage/images/image-from-rawpixel-id-6469258-png (1).png"/>
+                  <Image iconType="3" name="/winepackage/images/wineImage.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value=" "/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton1">
+            <Component class="javax.swing.JButton" name="productBuyBtn">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="78" green="6e" red="b3" type="rgb"/>

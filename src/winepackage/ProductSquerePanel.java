@@ -148,12 +148,12 @@ public class ProductSquerePanel extends javax.swing.JPanel {
     public void setinfoSquere(String info) {
         infoSquere.setText(info);
     }
-    
+    /*
     public void setImageSquere(String photoCode){
         String loc = "/winepackage/images/" + "1" + ".png";
         photoCodeSquere.setIcon(new javax.swing.ImageIcon(getClass().getResource(loc)));
     }
-
+    */
     
     private void likeButtonSquereActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_likeButtonSquereActionPerformed
         // TODO add your handling code here:

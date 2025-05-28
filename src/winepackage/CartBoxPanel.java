@@ -27,134 +27,134 @@ public class CartBoxPanel extends javax.swing.JPanel {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jPanel2 = new javax.swing.JPanel();
-        jPanel70 = new javax.swing.JPanel();
-        jLabel131 = new javax.swing.JLabel();
-        jLabel132 = new javax.swing.JLabel();
-        jLabel133 = new javax.swing.JLabel();
-        jLabel2 = new javax.swing.JLabel();
-        jButton2 = new javax.swing.JButton();
-        jButton3 = new javax.swing.JButton();
-        jTextField1 = new javax.swing.JTextField();
-        jLabel3 = new javax.swing.JLabel();
+        cartBoxPanel = new javax.swing.JPanel();
+        cartBoxCont = new javax.swing.JPanel();
+        cartTitle = new javax.swing.JLabel();
+        cartInfo = new javax.swing.JLabel();
+        cartPrice = new javax.swing.JLabel();
+        cartPhoto = new javax.swing.JLabel();
+        cartMinBtn = new javax.swing.JButton();
+        cartPlusBtn = new javax.swing.JButton();
+        cartNumbDisplay = new javax.swing.JTextField();
+        cartSumPrice = new javax.swing.JLabel();
 
-        jPanel2.setBackground(new java.awt.Color(255, 255, 255));
-        jPanel2.setLayout(new javax.swing.BoxLayout(jPanel2, javax.swing.BoxLayout.X_AXIS));
+        cartBoxPanel.setBackground(new java.awt.Color(255, 255, 255));
+        cartBoxPanel.setLayout(new javax.swing.BoxLayout(cartBoxPanel, javax.swing.BoxLayout.X_AXIS));
 
-        jPanel70.setBackground(new java.awt.Color(255, 255, 255));
+        cartBoxCont.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel131.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jLabel131.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel131.setText("Zero Sauvignon Blanc");
+        cartTitle.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
+        cartTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        cartTitle.setText("Zero Sauvignon Blanc");
 
-        jLabel132.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        jLabel132.setForeground(new java.awt.Color(51, 51, 51));
-        jLabel132.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel132.setText("Ξηρός, Ήπιος, Λευκός");
+        cartInfo.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        cartInfo.setForeground(new java.awt.Color(51, 51, 51));
+        cartInfo.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        cartInfo.setText("Ξηρός, Ήπιος, Λευκός");
 
-        jLabel133.setBackground(new java.awt.Color(0, 0, 0));
-        jLabel133.setFont(new java.awt.Font("Segoe UI", 3, 20)); // NOI18N
-        jLabel133.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel133.setText("10,60 €");
+        cartPrice.setBackground(new java.awt.Color(0, 0, 0));
+        cartPrice.setFont(new java.awt.Font("Segoe UI", 3, 20)); // NOI18N
+        cartPrice.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        cartPrice.setText("10,60 €");
 
-        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/wineImage.png"))); // NOI18N
-        jLabel2.setText(" ");
+        cartPhoto.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        cartPhoto.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/wineImage.png"))); // NOI18N
+        cartPhoto.setText(" ");
 
-        jButton2.setBackground(new java.awt.Color(179, 110, 120));
-        jButton2.setText("-");
+        cartMinBtn.setBackground(new java.awt.Color(179, 110, 120));
+        cartMinBtn.setText("-");
 
-        jButton3.setBackground(new java.awt.Color(179, 110, 120));
-        jButton3.setText("+");
+        cartPlusBtn.setBackground(new java.awt.Color(179, 110, 120));
+        cartPlusBtn.setText("+");
 
-        jTextField1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField1.setText(" 1");
-        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+        cartNumbDisplay.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+        cartNumbDisplay.setText(" 1");
+        cartNumbDisplay.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField1ActionPerformed(evt);
+                cartNumbDisplayActionPerformed(evt);
             }
         });
 
-        jLabel3.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
-        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("150,60 €");
+        cartSumPrice.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
+        cartSumPrice.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        cartSumPrice.setText("150,60 €");
 
-        javax.swing.GroupLayout jPanel70Layout = new javax.swing.GroupLayout(jPanel70);
-        jPanel70.setLayout(jPanel70Layout);
-        jPanel70Layout.setHorizontalGroup(
-            jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel70Layout.createSequentialGroup()
+        javax.swing.GroupLayout cartBoxContLayout = new javax.swing.GroupLayout(cartBoxCont);
+        cartBoxCont.setLayout(cartBoxContLayout);
+        cartBoxContLayout.setHorizontalGroup(
+            cartBoxContLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(cartBoxContLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 172, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartPhoto, javax.swing.GroupLayout.PREFERRED_SIZE, 172, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel131, javax.swing.GroupLayout.PREFERRED_SIZE, 298, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel132, javax.swing.GroupLayout.PREFERRED_SIZE, 298, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(cartBoxContLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(cartTitle, javax.swing.GroupLayout.PREFERRED_SIZE, 298, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(cartInfo, javax.swing.GroupLayout.PREFERRED_SIZE, 298, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel133, javax.swing.GroupLayout.PREFERRED_SIZE, 98, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartPrice, javax.swing.GroupLayout.PREFERRED_SIZE, 98, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 23, Short.MAX_VALUE)
-                .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartMinBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartNumbDisplay, javax.swing.GroupLayout.PREFERRED_SIZE, 41, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartPlusBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartSumPrice, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(14, 14, 14))
         );
-        jPanel70Layout.setVerticalGroup(
-            jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel70Layout.createSequentialGroup()
+        cartBoxContLayout.setVerticalGroup(
+            cartBoxContLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, cartBoxContLayout.createSequentialGroup()
                 .addContainerGap(11, Short.MAX_VALUE)
-                .addGroup(jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel70Layout.createSequentialGroup()
-                        .addComponent(jLabel132)
+                .addGroup(cartBoxContLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, cartBoxContLayout.createSequentialGroup()
+                        .addComponent(cartInfo)
                         .addGap(23, 23, 23))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel70Layout.createSequentialGroup()
-                        .addGroup(jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jLabel2)
-                            .addComponent(jLabel131))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, cartBoxContLayout.createSequentialGroup()
+                        .addGroup(cartBoxContLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(cartPhoto)
+                            .addComponent(cartTitle))
                         .addContainerGap())))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel70Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, cartBoxContLayout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel133, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jButton2)
-                    .addComponent(jButton3)
-                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel3))
+                .addGroup(cartBoxContLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(cartPrice, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(cartMinBtn)
+                    .addComponent(cartPlusBtn)
+                    .addComponent(cartNumbDisplay, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(cartSumPrice))
                 .addGap(0, 0, Short.MAX_VALUE))
         );
 
-        jPanel2.add(jPanel70);
+        cartBoxPanel.add(cartBoxCont);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(cartBoxPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(cartBoxPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+    private void cartNumbDisplayActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cartNumbDisplayActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
+    }//GEN-LAST:event_cartNumbDisplayActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButton2;
-    private javax.swing.JButton jButton3;
-    private javax.swing.JLabel jLabel131;
-    private javax.swing.JLabel jLabel132;
-    private javax.swing.JLabel jLabel133;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JPanel jPanel2;
-    private javax.swing.JPanel jPanel70;
-    private javax.swing.JTextField jTextField1;
+    private javax.swing.JPanel cartBoxCont;
+    private javax.swing.JPanel cartBoxPanel;
+    private javax.swing.JLabel cartInfo;
+    private javax.swing.JButton cartMinBtn;
+    private javax.swing.JTextField cartNumbDisplay;
+    private javax.swing.JLabel cartPhoto;
+    private javax.swing.JButton cartPlusBtn;
+    private javax.swing.JLabel cartPrice;
+    private javax.swing.JLabel cartSumPrice;
+    private javax.swing.JLabel cartTitle;
     // End of variables declaration//GEN-END:variables
 }

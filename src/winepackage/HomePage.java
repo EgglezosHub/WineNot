@@ -113,8 +113,8 @@ public class HomePage extends javax.swing.JFrame {
         jSeparator4 = new javax.swing.JSeparator();
         jSeparator5 = new javax.swing.JSeparator();
         homePanel = new javax.swing.JPanel();
-        jLabel3 = new javax.swing.JLabel();
-        jPanel68 = new javax.swing.JPanel();
+        homeTitle = new javax.swing.JLabel();
+        whiteBest = new javax.swing.JPanel();
         jPanel71 = new javax.swing.JPanel();
         jLabel128 = new javax.swing.JLabel();
         jLabel129 = new javax.swing.JLabel();
@@ -122,7 +122,7 @@ public class HomePage extends javax.swing.JFrame {
         jButton31 = new javax.swing.JButton();
         jButton46 = new javax.swing.JButton();
         jLabel135 = new javax.swing.JLabel();
-        jPanel72 = new javax.swing.JPanel();
+        redBest = new javax.swing.JPanel();
         jPanel73 = new javax.swing.JPanel();
         jLabel136 = new javax.swing.JLabel();
         jLabel137 = new javax.swing.JLabel();
@@ -130,7 +130,7 @@ public class HomePage extends javax.swing.JFrame {
         jButton33 = new javax.swing.JButton();
         jButton35 = new javax.swing.JButton();
         jLabel139 = new javax.swing.JLabel();
-        jPanel74 = new javax.swing.JPanel();
+        roseBest = new javax.swing.JPanel();
         jPanel75 = new javax.swing.JPanel();
         jLabel140 = new javax.swing.JLabel();
         jLabel141 = new javax.swing.JLabel();
@@ -138,97 +138,97 @@ public class HomePage extends javax.swing.JFrame {
         jButton34 = new javax.swing.JButton();
         jButton47 = new javax.swing.JButton();
         jLabel143 = new javax.swing.JLabel();
-        jLabel2 = new javax.swing.JLabel();
+        backgroundImg = new javax.swing.JLabel();
         contactPanel = new javax.swing.JPanel();
-        jPanel11 = new javax.swing.JPanel();
-        jLabel127 = new javax.swing.JLabel();
-        jLabel154 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
-        jLabel155 = new javax.swing.JLabel();
-        jLabel156 = new javax.swing.JLabel();
-        jTextField2 = new javax.swing.JTextField();
-        jLabel157 = new javax.swing.JLabel();
-        jTextField3 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
-        jLabel126 = new javax.swing.JLabel();
-        jLabel125 = new javax.swing.JLabel();
+        contactContent = new javax.swing.JPanel();
+        msgTitle1 = new javax.swing.JLabel();
+        msgTitle2 = new javax.swing.JLabel();
+        fullnameBax = new javax.swing.JTextField();
+        fullnameMsg = new javax.swing.JLabel();
+        emailMsg = new javax.swing.JLabel();
+        emailBox = new javax.swing.JTextField();
+        subtitleMsg = new javax.swing.JLabel();
+        messageBox = new javax.swing.JTextField();
+        submitBtn = new javax.swing.JButton();
+        contTitle = new javax.swing.JLabel();
+        topImage = new javax.swing.JLabel();
         aboutPanel = new javax.swing.JPanel();
-        jLabel161 = new javax.swing.JLabel();
-        jLabel160 = new javax.swing.JLabel();
-        jLabel158 = new javax.swing.JLabel();
+        aboutUsTitle = new javax.swing.JLabel();
+        ourPhotoAboutUs = new javax.swing.JLabel();
+        aboutBackground = new javax.swing.JLabel();
         heartPanel = new javax.swing.JPanel();
-        jLabel9 = new javax.swing.JLabel();
-        jScrollPane3 = new javax.swing.JScrollPane();
+        titleWishlist = new javax.swing.JLabel();
+        wishlistScrollPane = new javax.swing.JScrollPane();
         productContainerPanel = new javax.swing.JPanel();
         cartPanel = new javax.swing.JPanel();
-        jScrollPane2 = new javax.swing.JScrollPane();
+        cartScrollPane = new javax.swing.JScrollPane();
         cartContainerPanel = new javax.swing.JPanel();
-        jPanel1 = new javax.swing.JPanel();
-        jLabel1 = new javax.swing.JLabel();
-        jTextField4 = new javax.swing.JTextField();
-        jTextField5 = new javax.swing.JTextField();
-        jTextField6 = new javax.swing.JTextField();
-        jTextField7 = new javax.swing.JTextField();
-        jTextField8 = new javax.swing.JTextField();
-        jTextField9 = new javax.swing.JTextField();
-        jTextField10 = new javax.swing.JTextField();
-        jPanel2 = new javax.swing.JPanel();
-        jLabel4 = new javax.swing.JLabel();
-        jLabel16 = new javax.swing.JLabel();
-        jLabel17 = new javax.swing.JLabel();
-        jLabel18 = new javax.swing.JLabel();
-        jLabel19 = new javax.swing.JLabel();
-        jLabel20 = new javax.swing.JLabel();
-        jLabel21 = new javax.swing.JLabel();
-        jButton2 = new javax.swing.JButton();
+        cartInfoPanel = new javax.swing.JPanel();
+        infoTitle = new javax.swing.JLabel();
+        firstname = new javax.swing.JTextField();
+        surename = new javax.swing.JTextField();
+        phoneNumber = new javax.swing.JTextField();
+        email = new javax.swing.JTextField();
+        address = new javax.swing.JTextField();
+        postalCode = new javax.swing.JTextField();
+        city = new javax.swing.JTextField();
+        pricesPanel = new javax.swing.JPanel();
+        title = new javax.swing.JLabel();
+        subtotalLb = new javax.swing.JLabel();
+        shippingLb = new javax.swing.JLabel();
+        totalLb = new javax.swing.JLabel();
+        subtotalPrice = new javax.swing.JLabel();
+        shippingPrice = new javax.swing.JLabel();
+        totalPrice = new javax.swing.JLabel();
+        submitCartBtn = new javax.swing.JButton();
         accountPanel = new javax.swing.JPanel();
-        jLabel159 = new javax.swing.JLabel();
-        jLabel162 = new javax.swing.JLabel();
-        jPanel12 = new javax.swing.JPanel();
-        jLabel164 = new javax.swing.JLabel();
-        jLabel165 = new javax.swing.JLabel();
-        jLabel166 = new javax.swing.JLabel();
-        jLabel167 = new javax.swing.JLabel();
-        jLabel168 = new javax.swing.JLabel();
-        jLabel169 = new javax.swing.JLabel();
-        jLabel163 = new javax.swing.JLabel();
-        jLabel170 = new javax.swing.JLabel();
+        userIcon = new javax.swing.JLabel();
+        username = new javax.swing.JLabel();
+        infoPanel = new javax.swing.JPanel();
+        phoneLabel = new javax.swing.JLabel();
+        nameLabel = new javax.swing.JLabel();
+        emailLabel = new javax.swing.JLabel();
+        fullname = new javax.swing.JLabel();
+        emailInfo = new javax.swing.JLabel();
+        phone = new javax.swing.JLabel();
+        profileInfoTitle = new javax.swing.JLabel();
+        topImageProfile = new javax.swing.JLabel();
         winePanel = new javax.swing.JPanel();
-        jPanel5 = new javax.swing.JPanel();
-        jLabel147 = new javax.swing.JLabel();
-        jLabel148 = new javax.swing.JLabel();
-        jLabel149 = new javax.swing.JLabel();
-        jLabel7 = new javax.swing.JLabel();
-        jPanel8 = new javax.swing.JPanel();
-        jLabel144 = new javax.swing.JLabel();
-        jLabel145 = new javax.swing.JLabel();
-        jLabel146 = new javax.swing.JLabel();
-        jLabel6 = new javax.swing.JLabel();
-        jPanel10 = new javax.swing.JPanel();
-        jLabel150 = new javax.swing.JLabel();
-        jLabel151 = new javax.swing.JLabel();
-        jLabel152 = new javax.swing.JLabel();
-        jLabel8 = new javax.swing.JLabel();
-        jLabel5 = new javax.swing.JLabel();
-        jLabel153 = new javax.swing.JLabel();
+        redWinePanel = new javax.swing.JPanel();
+        redTextLine1 = new javax.swing.JLabel();
+        redTextLine2 = new javax.swing.JLabel();
+        redTextLine3 = new javax.swing.JLabel();
+        redBackground = new javax.swing.JLabel();
+        whiteWinePanel = new javax.swing.JPanel();
+        whiteTextLine1 = new javax.swing.JLabel();
+        whiteTextLine2 = new javax.swing.JLabel();
+        whiteTextLine3 = new javax.swing.JLabel();
+        whiteBackground = new javax.swing.JLabel();
+        roseWinePanel = new javax.swing.JPanel();
+        roseTextLine1 = new javax.swing.JLabel();
+        roseTextLine2 = new javax.swing.JLabel();
+        roseTextLine3 = new javax.swing.JLabel();
+        roseBackground = new javax.swing.JLabel();
+        winePageTitle = new javax.swing.JLabel();
+        winePageBackground = new javax.swing.JLabel();
         redPanel = new javax.swing.JPanel();
-        jLabel10 = new javax.swing.JLabel();
-        jScrollPane1 = new javax.swing.JScrollPane();
+        redTitle = new javax.swing.JLabel();
+        redScrollPane = new javax.swing.JScrollPane();
         paddingPanel = new javax.swing.JPanel();
         redContainerPanel = new javax.swing.JPanel();
-        jLabel11 = new javax.swing.JLabel();
+        redWineBackground = new javax.swing.JLabel();
         rosePanel = new javax.swing.JPanel();
-        jLabel12 = new javax.swing.JLabel();
-        jScrollPane4 = new javax.swing.JScrollPane();
+        roseTitle = new javax.swing.JLabel();
+        roseScrollPane = new javax.swing.JScrollPane();
         paddingPanel1 = new javax.swing.JPanel();
         roseContainerPanel = new javax.swing.JPanel();
-        jLabel13 = new javax.swing.JLabel();
+        roseWineBackground = new javax.swing.JLabel();
         whitePanel = new javax.swing.JPanel();
-        jLabel14 = new javax.swing.JLabel();
-        jScrollPane5 = new javax.swing.JScrollPane();
+        whiteTitle = new javax.swing.JLabel();
+        whiteScrollPane = new javax.swing.JScrollPane();
         paddingPanel2 = new javax.swing.JPanel();
         whiteContainerPanel = new javax.swing.JPanel();
-        jLabel15 = new javax.swing.JLabel();
+        whiteWineBackground = new javax.swing.JLabel();
         topbarPanel = new javax.swing.JPanel();
         jSeparator2 = new javax.swing.JSeparator();
         jSeparator7 = new javax.swing.JSeparator();
@@ -266,14 +266,14 @@ public class HomePage extends javax.swing.JFrame {
         homePanel.setBackground(new java.awt.Color(153, 153, 255));
         homePanel.setLayout(null);
 
-        jLabel3.setFont(new java.awt.Font("Serif", 3, 40)); // NOI18N
-        jLabel3.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("Our Best Sellers");
-        homePanel.add(jLabel3);
-        jLabel3.setBounds(340, 300, 350, 40);
+        homeTitle.setFont(new java.awt.Font("Serif", 3, 40)); // NOI18N
+        homeTitle.setForeground(new java.awt.Color(255, 255, 255));
+        homeTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        homeTitle.setText("Our Best Sellers");
+        homePanel.add(homeTitle);
+        homeTitle.setBounds(340, 300, 350, 40);
 
-        jPanel68.setBackground(new java.awt.Color(255, 255, 255));
+        whiteBest.setBackground(new java.awt.Color(255, 255, 255));
 
         jPanel71.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -337,32 +337,32 @@ public class HomePage extends javax.swing.JFrame {
         jLabel135.setBackground(new java.awt.Color(255, 255, 255));
         jLabel135.setForeground(new java.awt.Color(255, 255, 255));
         jLabel135.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel135.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image-from-rawpixel-id-6469258-png (1).png"))); // NOI18N
+        jLabel135.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/wineImage.png"))); // NOI18N
         jLabel135.setText(" ");
 
-        javax.swing.GroupLayout jPanel68Layout = new javax.swing.GroupLayout(jPanel68);
-        jPanel68.setLayout(jPanel68Layout);
-        jPanel68Layout.setHorizontalGroup(
-            jPanel68Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout whiteBestLayout = new javax.swing.GroupLayout(whiteBest);
+        whiteBest.setLayout(whiteBestLayout);
+        whiteBestLayout.setHorizontalGroup(
+            whiteBestLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanel71, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel68Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, whiteBestLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel135, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
-        jPanel68Layout.setVerticalGroup(
-            jPanel68Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel68Layout.createSequentialGroup()
+        whiteBestLayout.setVerticalGroup(
+            whiteBestLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, whiteBestLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel135, javax.swing.GroupLayout.PREFERRED_SIZE, 109, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 12, Short.MAX_VALUE)
                 .addComponent(jPanel71, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        homePanel.add(jPanel68);
-        jPanel68.setBounds(430, 350, 170, 210);
+        homePanel.add(whiteBest);
+        whiteBest.setBounds(430, 350, 170, 210);
 
-        jPanel72.setBackground(new java.awt.Color(255, 255, 255));
+        redBest.setBackground(new java.awt.Color(255, 255, 255));
 
         jPanel73.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -426,32 +426,32 @@ public class HomePage extends javax.swing.JFrame {
         jLabel139.setBackground(new java.awt.Color(255, 255, 255));
         jLabel139.setForeground(new java.awt.Color(255, 255, 255));
         jLabel139.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel139.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image-from-rawpixel-id-6469258-png (1).png"))); // NOI18N
+        jLabel139.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/wineImage.png"))); // NOI18N
         jLabel139.setText(" ");
 
-        javax.swing.GroupLayout jPanel72Layout = new javax.swing.GroupLayout(jPanel72);
-        jPanel72.setLayout(jPanel72Layout);
-        jPanel72Layout.setHorizontalGroup(
-            jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout redBestLayout = new javax.swing.GroupLayout(redBest);
+        redBest.setLayout(redBestLayout);
+        redBestLayout.setHorizontalGroup(
+            redBestLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanel73, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel72Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, redBestLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel139, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
-        jPanel72Layout.setVerticalGroup(
-            jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel72Layout.createSequentialGroup()
+        redBestLayout.setVerticalGroup(
+            redBestLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, redBestLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel139, javax.swing.GroupLayout.PREFERRED_SIZE, 109, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 10, Short.MAX_VALUE)
                 .addComponent(jPanel73, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        homePanel.add(jPanel72);
-        jPanel72.setBounds(110, 350, 170, 210);
+        homePanel.add(redBest);
+        redBest.setBounds(110, 350, 170, 210);
 
-        jPanel74.setBackground(new java.awt.Color(255, 255, 255));
+        roseBest.setBackground(new java.awt.Color(255, 255, 255));
 
         jPanel75.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -515,180 +515,180 @@ public class HomePage extends javax.swing.JFrame {
         jLabel143.setBackground(new java.awt.Color(255, 255, 255));
         jLabel143.setForeground(new java.awt.Color(255, 255, 255));
         jLabel143.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel143.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image-from-rawpixel-id-6469258-png (1).png"))); // NOI18N
+        jLabel143.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/wineImage.png"))); // NOI18N
         jLabel143.setText(" ");
 
-        javax.swing.GroupLayout jPanel74Layout = new javax.swing.GroupLayout(jPanel74);
-        jPanel74.setLayout(jPanel74Layout);
-        jPanel74Layout.setHorizontalGroup(
-            jPanel74Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout roseBestLayout = new javax.swing.GroupLayout(roseBest);
+        roseBest.setLayout(roseBestLayout);
+        roseBestLayout.setHorizontalGroup(
+            roseBestLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanel75, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel74Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, roseBestLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel143, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
-        jPanel74Layout.setVerticalGroup(
-            jPanel74Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel74Layout.createSequentialGroup()
+        roseBestLayout.setVerticalGroup(
+            roseBestLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, roseBestLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel143, javax.swing.GroupLayout.PREFERRED_SIZE, 109, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 12, Short.MAX_VALUE)
                 .addComponent(jPanel75, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        homePanel.add(jPanel74);
-        jPanel74.setBounds(750, 350, 170, 210);
+        homePanel.add(roseBest);
+        roseBest.setBounds(750, 350, 170, 210);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/WINE_NOT__20250521_223250_0000.png"))); // NOI18N
-        jLabel2.setText(" ");
-        homePanel.add(jLabel2);
-        jLabel2.setBounds(0, 0, 1030, 580);
+        backgroundImg.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/WINE_NOT__20250521_223250_0000.png"))); // NOI18N
+        backgroundImg.setText(" ");
+        homePanel.add(backgroundImg);
+        backgroundImg.setBounds(0, 0, 1030, 580);
 
         Background.add(homePanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         contactPanel.setBackground(new java.awt.Color(0, 153, 153));
         contactPanel.setLayout(null);
 
-        jPanel11.setBackground(new java.awt.Color(171, 1, 26));
+        contactContent.setBackground(new java.awt.Color(171, 1, 26));
 
-        jLabel127.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
-        jLabel127.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel127.setText("Let's Start a Convertation");
+        msgTitle1.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
+        msgTitle1.setForeground(new java.awt.Color(255, 255, 255));
+        msgTitle1.setText("Let's Start a Convertation");
 
-        jLabel154.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
-        jLabel154.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel154.setText("Please note: all fields are required.");
+        msgTitle2.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
+        msgTitle2.setForeground(new java.awt.Color(255, 255, 255));
+        msgTitle2.setText("Please note: all fields are required.");
 
-        jTextField1.setText(" ");
-        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+        fullnameBax.setText(" ");
+        fullnameBax.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField1ActionPerformed(evt);
+                fullnameBaxActionPerformed(evt);
             }
         });
 
-        jLabel155.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
-        jLabel155.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel155.setText("Fullname:");
+        fullnameMsg.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
+        fullnameMsg.setForeground(new java.awt.Color(255, 255, 255));
+        fullnameMsg.setText("Fullname:");
 
-        jLabel156.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
-        jLabel156.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel156.setText("Email:");
+        emailMsg.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
+        emailMsg.setForeground(new java.awt.Color(255, 255, 255));
+        emailMsg.setText("Email:");
 
-        jTextField2.setText("  ");
-        jTextField2.addActionListener(new java.awt.event.ActionListener() {
+        emailBox.setText("  ");
+        emailBox.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField2ActionPerformed(evt);
+                emailBoxActionPerformed(evt);
             }
         });
 
-        jLabel157.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
-        jLabel157.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel157.setText("Write the reason for contacting:");
+        subtitleMsg.setFont(new java.awt.Font("Noto Serif", 0, 15)); // NOI18N
+        subtitleMsg.setForeground(new java.awt.Color(255, 255, 255));
+        subtitleMsg.setText("Write the reason for contacting:");
 
-        jTextField3.setText("  ");
+        messageBox.setText("  ");
 
-        jButton1.setFont(new java.awt.Font("Liberation Sans", 1, 15)); // NOI18N
-        jButton1.setForeground(new java.awt.Color(235, 4, 36));
-        jButton1.setText("Submit");
+        submitBtn.setFont(new java.awt.Font("Liberation Sans", 1, 15)); // NOI18N
+        submitBtn.setForeground(new java.awt.Color(235, 4, 36));
+        submitBtn.setText("Submit");
 
-        javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
-        jPanel11.setLayout(jPanel11Layout);
-        jPanel11Layout.setHorizontalGroup(
-            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel11Layout.createSequentialGroup()
+        javax.swing.GroupLayout contactContentLayout = new javax.swing.GroupLayout(contactContent);
+        contactContent.setLayout(contactContentLayout);
+        contactContentLayout.setHorizontalGroup(
+            contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(contactContentLayout.createSequentialGroup()
                 .addGap(389, 389, 389)
-                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel154)
-                    .addComponent(jLabel127))
+                .addGroup(contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(msgTitle2)
+                    .addComponent(msgTitle1))
                 .addGap(0, 0, Short.MAX_VALUE))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel11Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, contactContentLayout.createSequentialGroup()
                 .addContainerGap(222, Short.MAX_VALUE)
-                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 255, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 255, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel156)
-                    .addComponent(jLabel155))
+                .addGroup(contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(emailBox, javax.swing.GroupLayout.PREFERRED_SIZE, 255, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(fullnameBax, javax.swing.GroupLayout.PREFERRED_SIZE, 255, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(emailMsg)
+                    .addComponent(fullnameMsg))
                 .addGap(85, 85, 85)
-                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 296, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel157))
+                .addGroup(contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(messageBox, javax.swing.GroupLayout.PREFERRED_SIZE, 296, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(subtitleMsg))
                 .addGap(172, 172, 172))
-            .addGroup(jPanel11Layout.createSequentialGroup()
+            .addGroup(contactContentLayout.createSequentialGroup()
                 .addGap(459, 459, 459)
-                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 111, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(submitBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 111, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
-        jPanel11Layout.setVerticalGroup(
-            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel11Layout.createSequentialGroup()
+        contactContentLayout.setVerticalGroup(
+            contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(contactContentLayout.createSequentialGroup()
                 .addGap(21, 21, 21)
-                .addComponent(jLabel127)
+                .addComponent(msgTitle1)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel154)
+                .addComponent(msgTitle2)
                 .addGap(17, 17, 17)
-                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel155, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel157))
+                .addGroup(contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(fullnameMsg, javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(subtitleMsg))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel11Layout.createSequentialGroup()
-                        .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(contactContentLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(contactContentLayout.createSequentialGroup()
+                        .addComponent(fullnameBax, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
-                        .addComponent(jLabel156)
+                        .addComponent(emailMsg)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 95, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(emailBox, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(messageBox, javax.swing.GroupLayout.PREFERRED_SIZE, 95, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(18, 18, Short.MAX_VALUE)
-                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(submitBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 32, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(27, Short.MAX_VALUE))
         );
 
-        contactPanel.add(jPanel11);
-        jPanel11.setBounds(0, 290, 1030, 290);
+        contactPanel.add(contactContent);
+        contactContent.setBounds(0, 290, 1030, 290);
 
-        jLabel126.setFont(new java.awt.Font("Noto Serif", 1, 48)); // NOI18N
-        jLabel126.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel126.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel126.setText("Contact Us");
-        contactPanel.add(jLabel126);
-        jLabel126.setBounds(340, 190, 340, 110);
+        contTitle.setFont(new java.awt.Font("Noto Serif", 1, 48)); // NOI18N
+        contTitle.setForeground(new java.awt.Color(255, 255, 255));
+        contTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        contTitle.setText("Contact Us");
+        contactPanel.add(contTitle);
+        contTitle.setBounds(340, 190, 340, 110);
 
-        jLabel125.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/pexels-adrian-odogwu-2078202-3820514(1)(1).jpg"))); // NOI18N
-        jLabel125.setText(" ");
-        contactPanel.add(jLabel125);
-        jLabel125.setBounds(0, 0, 1030, 290);
+        topImage.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/pexels-adrian-odogwu-2078202-3820514(1)(1).jpg"))); // NOI18N
+        topImage.setText(" ");
+        contactPanel.add(topImage);
+        topImage.setBounds(0, 0, 1030, 290);
 
         Background.add(contactPanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         aboutPanel.setBackground(new java.awt.Color(171, 1, 26));
         aboutPanel.setLayout(null);
 
-        jLabel161.setFont(new java.awt.Font("Noto Serif", 1, 48)); // NOI18N
-        jLabel161.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel161.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel161.setText("About Us");
-        aboutPanel.add(jLabel161);
-        jLabel161.setBounds(340, 150, 340, 110);
+        aboutUsTitle.setFont(new java.awt.Font("Noto Serif", 1, 48)); // NOI18N
+        aboutUsTitle.setForeground(new java.awt.Color(255, 255, 255));
+        aboutUsTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        aboutUsTitle.setText("About Us");
+        aboutPanel.add(aboutUsTitle);
+        aboutUsTitle.setBounds(340, 150, 340, 110);
 
-        jLabel160.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
-        jLabel160.setText(" ");
-        aboutPanel.add(jLabel160);
-        jLabel160.setBounds(280, 230, 450, 240);
+        ourPhotoAboutUs.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
+        ourPhotoAboutUs.setText(" ");
+        aboutPanel.add(ourPhotoAboutUs);
+        ourPhotoAboutUs.setBounds(280, 230, 450, 240);
 
-        jLabel158.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/pexels-adrian-odogwu-2078202-3820514(1)(1).jpg"))); // NOI18N
-        jLabel158.setText(" ");
-        jLabel158.setPreferredSize(new java.awt.Dimension(1030, 290));
-        aboutPanel.add(jLabel158);
-        jLabel158.setBounds(0, 0, 1038, 290);
+        aboutBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/pexels-adrian-odogwu-2078202-3820514(1)(1).jpg"))); // NOI18N
+        aboutBackground.setText(" ");
+        aboutBackground.setPreferredSize(new java.awt.Dimension(1030, 290));
+        aboutPanel.add(aboutBackground);
+        aboutBackground.setBounds(0, 0, 1038, 290);
 
         Background.add(aboutPanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         heartPanel.setBackground(new java.awt.Color(171, 1, 26));
 
-        jLabel9.setFont(new java.awt.Font("Noto Serif", 1, 24)); // NOI18N
-        jLabel9.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel9.setText("Wishlist");
+        titleWishlist.setFont(new java.awt.Font("Noto Serif", 1, 24)); // NOI18N
+        titleWishlist.setForeground(new java.awt.Color(255, 255, 255));
+        titleWishlist.setText("Wishlist");
 
         for (int i = 0; i < 30; i++) {
             ProductBoxPanel box = new ProductBoxPanel();
@@ -698,7 +698,7 @@ public class HomePage extends javax.swing.JFrame {
         productContainerPanel.revalidate();
         productContainerPanel.repaint();
         productContainerPanel.setLayout(new javax.swing.BoxLayout(productContainerPanel, javax.swing.BoxLayout.Y_AXIS));
-        jScrollPane3.setViewportView(productContainerPanel);
+        wishlistScrollPane.setViewportView(productContainerPanel);
 
         javax.swing.GroupLayout heartPanelLayout = new javax.swing.GroupLayout(heartPanel);
         heartPanel.setLayout(heartPanelLayout);
@@ -707,17 +707,17 @@ public class HomePage extends javax.swing.JFrame {
             .addGroup(heartPanelLayout.createSequentialGroup()
                 .addGap(31, 31, 31)
                 .addGroup(heartPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel9, javax.swing.GroupLayout.PREFERRED_SIZE, 154, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 960, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(titleWishlist, javax.swing.GroupLayout.PREFERRED_SIZE, 154, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(wishlistScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 960, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap(39, Short.MAX_VALUE))
         );
         heartPanelLayout.setVerticalGroup(
             heartPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(heartPanelLayout.createSequentialGroup()
                 .addGap(32, 32, 32)
-                .addComponent(jLabel9, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(titleWishlist, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 485, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(wishlistScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 485, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(15, Short.MAX_VALUE))
         );
 
@@ -725,9 +725,9 @@ public class HomePage extends javax.swing.JFrame {
 
         cartPanel.setBackground(new java.awt.Color(255, 255, 255));
 
-        jScrollPane2.setBackground(new java.awt.Color(255, 255, 255));
-        jScrollPane2.setForeground(new java.awt.Color(255, 255, 255));
-        jScrollPane2.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        cartScrollPane.setBackground(new java.awt.Color(255, 255, 255));
+        cartScrollPane.setForeground(new java.awt.Color(255, 255, 255));
+        cartScrollPane.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
 
         for (int i = 0; i < 30; i++) {
             CartBoxPanel box = new CartBoxPanel();
@@ -737,198 +737,198 @@ public class HomePage extends javax.swing.JFrame {
         cartContainerPanel.revalidate();
         cartContainerPanel.repaint();
         cartContainerPanel.setLayout(new javax.swing.BoxLayout(cartContainerPanel, javax.swing.BoxLayout.Y_AXIS));
-        jScrollPane2.setViewportView(cartContainerPanel);
+        cartScrollPane.setViewportView(cartContainerPanel);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
-        jPanel1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
+        cartInfoPanel.setBackground(new java.awt.Color(255, 255, 255));
+        cartInfoPanel.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
 
-        jLabel1.setFont(new java.awt.Font("Liberation Sans", 2, 15)); // NOI18N
-        jLabel1.setText("Your information");
+        infoTitle.setFont(new java.awt.Font("Liberation Sans", 2, 15)); // NOI18N
+        infoTitle.setText("Your information");
 
-        jTextField4.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField4.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField4.setText("Firstname");
-        jTextField4.addActionListener(new java.awt.event.ActionListener() {
+        firstname.setForeground(new java.awt.Color(102, 102, 102));
+        firstname.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        firstname.setText("Firstname");
+        firstname.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField4ActionPerformed(evt);
+                firstnameActionPerformed(evt);
             }
         });
 
-        jTextField5.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField5.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField5.setText("Surename");
-        jTextField5.addActionListener(new java.awt.event.ActionListener() {
+        surename.setForeground(new java.awt.Color(102, 102, 102));
+        surename.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        surename.setText("Surename");
+        surename.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField5ActionPerformed(evt);
+                surenameActionPerformed(evt);
             }
         });
 
-        jTextField6.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField6.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField6.setText("Phone Number");
-        jTextField6.addActionListener(new java.awt.event.ActionListener() {
+        phoneNumber.setForeground(new java.awt.Color(102, 102, 102));
+        phoneNumber.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        phoneNumber.setText("Phone Number");
+        phoneNumber.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField6ActionPerformed(evt);
+                phoneNumberActionPerformed(evt);
             }
         });
 
-        jTextField7.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField7.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField7.setText("Email");
-        jTextField7.addActionListener(new java.awt.event.ActionListener() {
+        email.setForeground(new java.awt.Color(102, 102, 102));
+        email.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        email.setText("Email");
+        email.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField7ActionPerformed(evt);
+                emailActionPerformed(evt);
             }
         });
 
-        jTextField8.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField8.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField8.setText("Address");
-        jTextField8.addActionListener(new java.awt.event.ActionListener() {
+        address.setForeground(new java.awt.Color(102, 102, 102));
+        address.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        address.setText("Address");
+        address.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField8ActionPerformed(evt);
+                addressActionPerformed(evt);
             }
         });
 
-        jTextField9.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField9.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField9.setText("P. Code");
-        jTextField9.addActionListener(new java.awt.event.ActionListener() {
+        postalCode.setForeground(new java.awt.Color(102, 102, 102));
+        postalCode.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        postalCode.setText("P. Code");
+        postalCode.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField9ActionPerformed(evt);
+                postalCodeActionPerformed(evt);
             }
         });
 
-        jTextField10.setForeground(new java.awt.Color(102, 102, 102));
-        jTextField10.setHorizontalAlignment(javax.swing.JTextField.LEFT);
-        jTextField10.setText("City");
-        jTextField10.addActionListener(new java.awt.event.ActionListener() {
+        city.setForeground(new java.awt.Color(102, 102, 102));
+        city.setHorizontalAlignment(javax.swing.JTextField.LEFT);
+        city.setText("City");
+        city.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField10ActionPerformed(evt);
+                cityActionPerformed(evt);
             }
         });
 
-        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
-        jPanel1.setLayout(jPanel1Layout);
-        jPanel1Layout.setHorizontalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
+        javax.swing.GroupLayout cartInfoPanelLayout = new javax.swing.GroupLayout(cartInfoPanel);
+        cartInfoPanel.setLayout(cartInfoPanelLayout);
+        cartInfoPanelLayout.setHorizontalGroup(
+            cartInfoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(cartInfoPanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel1)
-                    .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, 483, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(cartInfoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(infoTitle)
+                    .addComponent(address, javax.swing.GroupLayout.PREFERRED_SIZE, 483, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(cartInfoPanelLayout.createSequentialGroup()
+                        .addComponent(firstname, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
-                        .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, 151, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(surename, javax.swing.GroupLayout.PREFERRED_SIZE, 151, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
-                        .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, 151, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, 483, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
+                        .addComponent(phoneNumber, javax.swing.GroupLayout.PREFERRED_SIZE, 151, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(email, javax.swing.GroupLayout.PREFERRED_SIZE, 483, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(cartInfoPanelLayout.createSequentialGroup()
                         .addGap(69, 69, 69)
-                        .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(postalCode, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
-                        .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addComponent(city, javax.swing.GroupLayout.PREFERRED_SIZE, 145, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addContainerGap(55, Short.MAX_VALUE))
         );
-        jPanel1Layout.setVerticalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
+        cartInfoPanelLayout.setVerticalGroup(
+            cartInfoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(cartInfoPanelLayout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jLabel1)
+                .addComponent(infoTitle)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(cartInfoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(firstname, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(surename, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(phoneNumber, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(18, 18, 18)
-                .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(email, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(address, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(cartInfoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(postalCode, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(city, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(36, 36, 36))
         );
 
-        jPanel2.setBackground(new java.awt.Color(255, 255, 255));
-        jPanel2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
+        pricesPanel.setBackground(new java.awt.Color(255, 255, 255));
+        pricesPanel.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
 
-        jLabel4.setFont(new java.awt.Font("Liberation Sans", 2, 15)); // NOI18N
-        jLabel4.setText("Cart Summary");
+        title.setFont(new java.awt.Font("Liberation Sans", 2, 15)); // NOI18N
+        title.setText("Cart Summary");
 
-        jLabel16.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
-        jLabel16.setText("Subtotal:");
+        subtotalLb.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
+        subtotalLb.setText("Subtotal:");
 
-        jLabel17.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
-        jLabel17.setText("Shipping:");
+        shippingLb.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
+        shippingLb.setText("Shipping:");
 
-        jLabel18.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
-        jLabel18.setText("Total:");
+        totalLb.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
+        totalLb.setText("Total:");
 
-        jLabel19.setFont(new java.awt.Font("Liberation Sans", 3, 19)); // NOI18N
-        jLabel19.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel19.setText("36 €");
+        subtotalPrice.setFont(new java.awt.Font("Liberation Sans", 3, 19)); // NOI18N
+        subtotalPrice.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        subtotalPrice.setText("36 €");
 
-        jLabel20.setFont(new java.awt.Font("Liberation Sans", 3, 19)); // NOI18N
-        jLabel20.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel20.setText("3 €");
+        shippingPrice.setFont(new java.awt.Font("Liberation Sans", 3, 19)); // NOI18N
+        shippingPrice.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        shippingPrice.setText("3 €");
 
-        jLabel21.setFont(new java.awt.Font("Liberation Sans", 3, 19)); // NOI18N
-        jLabel21.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel21.setText("39 €");
+        totalPrice.setFont(new java.awt.Font("Liberation Sans", 3, 19)); // NOI18N
+        totalPrice.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        totalPrice.setText("39 €");
 
-        jButton2.setBackground(new java.awt.Color(179, 110, 120));
-        jButton2.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
-        jButton2.setText("SUBMIT");
+        submitCartBtn.setBackground(new java.awt.Color(179, 110, 120));
+        submitCartBtn.setFont(new java.awt.Font("Liberation Sans", 1, 18)); // NOI18N
+        submitCartBtn.setText("SUBMIT");
 
-        javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
-        jPanel2.setLayout(jPanel2Layout);
-        jPanel2Layout.setHorizontalGroup(
-            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
+        javax.swing.GroupLayout pricesPanelLayout = new javax.swing.GroupLayout(pricesPanel);
+        pricesPanel.setLayout(pricesPanelLayout);
+        pricesPanelLayout.setHorizontalGroup(
+            pricesPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pricesPanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addGroup(jPanel2Layout.createSequentialGroup()
+                .addGroup(pricesPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addGroup(pricesPanelLayout.createSequentialGroup()
                         .addGap(0, 0, Short.MAX_VALUE)
-                        .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel2Layout.createSequentialGroup()
-                        .addComponent(jLabel16)
+                        .addComponent(submitCartBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 123, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, pricesPanelLayout.createSequentialGroup()
+                        .addComponent(subtotalLb)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jLabel19, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel2Layout.createSequentialGroup()
-                        .addComponent(jLabel17)
+                        .addComponent(subtotalPrice, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, pricesPanelLayout.createSequentialGroup()
+                        .addComponent(shippingLb)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 181, Short.MAX_VALUE)
-                        .addComponent(jLabel20, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel2Layout.createSequentialGroup()
-                        .addComponent(jLabel4)
+                        .addComponent(shippingPrice, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, pricesPanelLayout.createSequentialGroup()
+                        .addComponent(title)
                         .addGap(0, 0, Short.MAX_VALUE))
-                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel2Layout.createSequentialGroup()
-                        .addComponent(jLabel18)
+                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, pricesPanelLayout.createSequentialGroup()
+                        .addComponent(totalLb)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jLabel21, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addComponent(totalPrice, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addGap(33, 33, 33))
         );
-        jPanel2Layout.setVerticalGroup(
-            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel2Layout.createSequentialGroup()
+        pricesPanelLayout.setVerticalGroup(
+            pricesPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(pricesPanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel4)
+                .addComponent(title)
                 .addGap(18, 18, 18)
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel16)
-                    .addComponent(jLabel19))
+                .addGroup(pricesPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(subtotalLb)
+                    .addComponent(subtotalPrice))
                 .addGap(25, 25, 25)
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel17)
-                    .addComponent(jLabel20))
+                .addGroup(pricesPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(shippingLb)
+                    .addComponent(shippingPrice))
                 .addGap(26, 26, 26)
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel18)
-                    .addComponent(jLabel21))
+                .addGroup(pricesPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(totalLb)
+                    .addComponent(totalPrice))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(submitCartBtn, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
 
@@ -936,22 +936,22 @@ public class HomePage extends javax.swing.JFrame {
         cartPanel.setLayout(cartPanelLayout);
         cartPanelLayout.setHorizontalGroup(
             cartPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane2)
+            .addComponent(cartScrollPane)
             .addGroup(cartPanelLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(cartInfoPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(pricesPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addGap(12, 12, 12))
         );
         cartPanelLayout.setVerticalGroup(
             cartPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(cartPanelLayout.createSequentialGroup()
-                .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 344, Short.MAX_VALUE)
+                .addComponent(cartScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 344, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(cartPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addComponent(cartInfoPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(pricesPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap())
         );
 
@@ -960,241 +960,241 @@ public class HomePage extends javax.swing.JFrame {
         accountPanel.setBackground(new java.awt.Color(40, 0, 6));
         accountPanel.setLayout(null);
 
-        jLabel159.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel159.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/user(1).png"))); // NOI18N
-        jLabel159.setText("  ");
-        accountPanel.add(jLabel159);
-        jLabel159.setBounds(110, 130, 110, 102);
+        userIcon.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        userIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/user(1).png"))); // NOI18N
+        userIcon.setText("  ");
+        accountPanel.add(userIcon);
+        userIcon.setBounds(110, 130, 110, 102);
 
-        jLabel162.setFont(new java.awt.Font("Noto Serif", 1, 24)); // NOI18N
-        jLabel162.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel162.setText("Username");
-        accountPanel.add(jLabel162);
-        jLabel162.setBounds(220, 160, 270, 50);
+        username.setFont(new java.awt.Font("Noto Serif", 1, 24)); // NOI18N
+        username.setForeground(new java.awt.Color(255, 255, 255));
+        username.setText("Username");
+        accountPanel.add(username);
+        username.setBounds(220, 160, 270, 50);
 
-        jLabel164.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
-        jLabel164.setText("Τηλέφωνο:");
+        phoneLabel.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
+        phoneLabel.setText("Τηλέφωνο:");
 
-        jLabel165.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
-        jLabel165.setText("Ονοματεπώνυμο:");
+        nameLabel.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
+        nameLabel.setText("Ονοματεπώνυμο:");
 
-        jLabel166.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
-        jLabel166.setText("Email:");
+        emailLabel.setFont(new java.awt.Font("Noto Serif", 1, 18)); // NOI18N
+        emailLabel.setText("Email:");
 
-        jLabel167.setFont(new java.awt.Font("Noto Serif", 0, 18)); // NOI18N
-        jLabel167.setText("Όναμα Επώνημο");
+        fullname.setFont(new java.awt.Font("Noto Serif", 0, 18)); // NOI18N
+        fullname.setText("Όναμα Επώνημο");
 
-        jLabel168.setFont(new java.awt.Font("Noto Serif", 0, 18)); // NOI18N
-        jLabel168.setText("exampleemail@email.com");
+        emailInfo.setFont(new java.awt.Font("Noto Serif", 0, 18)); // NOI18N
+        emailInfo.setText("exampleemail@email.com");
 
-        jLabel169.setFont(new java.awt.Font("Noto Serif", 0, 18)); // NOI18N
-        jLabel169.setText("6901234567");
+        phone.setFont(new java.awt.Font("Noto Serif", 0, 18)); // NOI18N
+        phone.setText("6901234567");
 
-        javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
-        jPanel12.setLayout(jPanel12Layout);
-        jPanel12Layout.setHorizontalGroup(
-            jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel12Layout.createSequentialGroup()
+        javax.swing.GroupLayout infoPanelLayout = new javax.swing.GroupLayout(infoPanel);
+        infoPanel.setLayout(infoPanelLayout);
+        infoPanelLayout.setHorizontalGroup(
+            infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(infoPanelLayout.createSequentialGroup()
                 .addGap(15, 15, 15)
-                .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel12Layout.createSequentialGroup()
-                        .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel165, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jLabel166, javax.swing.GroupLayout.PREFERRED_SIZE, 68, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(infoPanelLayout.createSequentialGroup()
+                        .addGroup(infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(nameLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(emailLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 68, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(18, 18, 18)
-                        .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel168)
-                            .addComponent(jLabel167)))
-                    .addGroup(jPanel12Layout.createSequentialGroup()
-                        .addComponent(jLabel164, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGroup(infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(emailInfo)
+                            .addComponent(fullname)))
+                    .addGroup(infoPanelLayout.createSequentialGroup()
+                        .addComponent(phoneLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
-                        .addComponent(jLabel169)))
+                        .addComponent(phone)))
                 .addContainerGap(383, Short.MAX_VALUE))
         );
-        jPanel12Layout.setVerticalGroup(
-            jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel12Layout.createSequentialGroup()
+        infoPanelLayout.setVerticalGroup(
+            infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(infoPanelLayout.createSequentialGroup()
                 .addGap(32, 32, 32)
-                .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel165, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel167))
+                .addGroup(infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(nameLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(fullname))
                 .addGap(42, 42, 42)
-                .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel166, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel168))
+                .addGroup(infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(emailLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(emailInfo))
                 .addGap(42, 42, 42)
-                .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel164, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel169))
+                .addGroup(infoPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(phoneLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(phone))
                 .addContainerGap(45, Short.MAX_VALUE))
         );
 
-        accountPanel.add(jPanel12);
-        jPanel12.setBounds(110, 260, 810, 290);
+        accountPanel.add(infoPanel);
+        infoPanel.setBounds(110, 260, 810, 290);
 
-        jLabel163.setFont(new java.awt.Font("Noto Serif", 1, 24)); // NOI18N
-        jLabel163.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel163.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel163.setText("Your Info");
-        accountPanel.add(jLabel163);
-        jLabel163.setBounds(440, 220, 130, 40);
+        profileInfoTitle.setFont(new java.awt.Font("Noto Serif", 1, 24)); // NOI18N
+        profileInfoTitle.setForeground(new java.awt.Color(255, 255, 255));
+        profileInfoTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        profileInfoTitle.setText("Your Info");
+        accountPanel.add(profileInfoTitle);
+        profileInfoTitle.setBounds(440, 220, 130, 40);
 
-        jLabel170.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/pexels-adrian-odogwu-2078202-3820514(1)(1).jpg"))); // NOI18N
-        jLabel170.setText("  ");
-        accountPanel.add(jLabel170);
-        jLabel170.setBounds(0, 0, 1030, 290);
+        topImageProfile.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/pexels-adrian-odogwu-2078202-3820514(1)(1).jpg"))); // NOI18N
+        topImageProfile.setText("  ");
+        accountPanel.add(topImageProfile);
+        topImageProfile.setBounds(0, 0, 1030, 290);
 
         Background.add(accountPanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         winePanel.setBackground(new java.awt.Color(0, 204, 51));
         winePanel.setLayout(null);
 
-        jPanel5.setLayout(null);
+        redWinePanel.setLayout(null);
 
-        jLabel147.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel147.setForeground(new java.awt.Color(204, 0, 0));
-        jLabel147.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel147.setText("red wines");
-        jLabel147.setToolTipText("");
-        jLabel147.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel147.setName(""); // NOI18N
-        jPanel5.add(jLabel147);
-        jLabel147.setBounds(0, 70, 200, 70);
+        redTextLine1.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        redTextLine1.setForeground(new java.awt.Color(204, 0, 0));
+        redTextLine1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        redTextLine1.setText("Check our ");
+        redTextLine1.setToolTipText("");
+        redTextLine1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        redTextLine1.setName(""); // NOI18N
+        redWinePanel.add(redTextLine1);
+        redTextLine1.setBounds(0, -10, 200, 70);
 
-        jLabel148.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel148.setForeground(new java.awt.Color(204, 0, 0));
-        jLabel148.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel148.setText("Check our ");
-        jLabel148.setToolTipText("");
-        jLabel148.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel148.setName(""); // NOI18N
-        jPanel5.add(jLabel148);
-        jLabel148.setBounds(0, -10, 200, 70);
+        redTextLine2.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        redTextLine2.setForeground(new java.awt.Color(204, 0, 0));
+        redTextLine2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        redTextLine2.setText("list of");
+        redTextLine2.setToolTipText("");
+        redTextLine2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        redTextLine2.setName(""); // NOI18N
+        redWinePanel.add(redTextLine2);
+        redTextLine2.setBounds(0, 30, 200, 70);
 
-        jLabel149.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel149.setForeground(new java.awt.Color(204, 0, 0));
-        jLabel149.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel149.setText("list of");
-        jLabel149.setToolTipText("");
-        jLabel149.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel149.setName(""); // NOI18N
-        jPanel5.add(jLabel149);
-        jLabel149.setBounds(0, 30, 200, 70);
+        redTextLine3.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        redTextLine3.setForeground(new java.awt.Color(204, 0, 0));
+        redTextLine3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        redTextLine3.setText("red wines");
+        redTextLine3.setToolTipText("");
+        redTextLine3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        redTextLine3.setName(""); // NOI18N
+        redWinePanel.add(redTextLine3);
+        redTextLine3.setBounds(0, 70, 200, 70);
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
-        jLabel7.setText(" ");
-        jPanel5.add(jLabel7);
-        jLabel7.setBounds(0, 0, 208, 210);
+        redBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
+        redBackground.setText(" ");
+        redWinePanel.add(redBackground);
+        redBackground.setBounds(0, 0, 208, 210);
 
-        winePanel.add(jPanel5);
-        jPanel5.setBounds(420, 300, 200, 210);
+        winePanel.add(redWinePanel);
+        redWinePanel.setBounds(420, 300, 200, 210);
 
-        jPanel8.setLayout(null);
+        whiteWinePanel.setLayout(null);
 
-        jLabel144.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel144.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel144.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel144.setText("white wines");
-        jLabel144.setToolTipText("");
-        jLabel144.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel144.setName(""); // NOI18N
-        jPanel8.add(jLabel144);
-        jLabel144.setBounds(0, 70, 200, 70);
+        whiteTextLine1.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        whiteTextLine1.setForeground(new java.awt.Color(255, 255, 255));
+        whiteTextLine1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        whiteTextLine1.setText("Check our ");
+        whiteTextLine1.setToolTipText("");
+        whiteTextLine1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        whiteTextLine1.setName(""); // NOI18N
+        whiteWinePanel.add(whiteTextLine1);
+        whiteTextLine1.setBounds(0, -10, 200, 70);
 
-        jLabel145.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel145.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel145.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel145.setText("Check our ");
-        jLabel145.setToolTipText("");
-        jLabel145.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel145.setName(""); // NOI18N
-        jPanel8.add(jLabel145);
-        jLabel145.setBounds(0, -10, 200, 70);
+        whiteTextLine2.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        whiteTextLine2.setForeground(new java.awt.Color(255, 255, 255));
+        whiteTextLine2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        whiteTextLine2.setText("list of");
+        whiteTextLine2.setToolTipText("");
+        whiteTextLine2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        whiteTextLine2.setName(""); // NOI18N
+        whiteWinePanel.add(whiteTextLine2);
+        whiteTextLine2.setBounds(0, 30, 200, 70);
 
-        jLabel146.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel146.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel146.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel146.setText("list of");
-        jLabel146.setToolTipText("");
-        jLabel146.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel146.setName(""); // NOI18N
-        jPanel8.add(jLabel146);
-        jLabel146.setBounds(0, 30, 200, 70);
+        whiteTextLine3.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        whiteTextLine3.setForeground(new java.awt.Color(255, 255, 255));
+        whiteTextLine3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        whiteTextLine3.setText("white wines");
+        whiteTextLine3.setToolTipText("");
+        whiteTextLine3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        whiteTextLine3.setName(""); // NOI18N
+        whiteWinePanel.add(whiteTextLine3);
+        whiteTextLine3.setBounds(0, 70, 200, 70);
 
-        jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
-        jLabel6.setText(" ");
-        jPanel8.add(jLabel6);
-        jLabel6.setBounds(0, 0, 208, 210);
+        whiteBackground.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        whiteBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
+        whiteBackground.setText(" ");
+        whiteWinePanel.add(whiteBackground);
+        whiteBackground.setBounds(0, 0, 208, 210);
 
-        winePanel.add(jPanel8);
-        jPanel8.setBounds(80, 300, 200, 210);
+        winePanel.add(whiteWinePanel);
+        whiteWinePanel.setBounds(80, 300, 200, 210);
 
-        jPanel10.setLayout(null);
+        roseWinePanel.setLayout(null);
 
-        jLabel150.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel150.setForeground(new java.awt.Color(255, 153, 153));
-        jLabel150.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel150.setText("list of");
-        jLabel150.setToolTipText("");
-        jLabel150.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel150.setName(""); // NOI18N
-        jPanel10.add(jLabel150);
-        jLabel150.setBounds(0, 30, 200, 70);
+        roseTextLine1.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        roseTextLine1.setForeground(new java.awt.Color(255, 153, 153));
+        roseTextLine1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        roseTextLine1.setText("Check our ");
+        roseTextLine1.setToolTipText("");
+        roseTextLine1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        roseTextLine1.setName(""); // NOI18N
+        roseWinePanel.add(roseTextLine1);
+        roseTextLine1.setBounds(0, -10, 200, 70);
 
-        jLabel151.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel151.setForeground(new java.awt.Color(255, 153, 153));
-        jLabel151.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel151.setText("Check our ");
-        jLabel151.setToolTipText("");
-        jLabel151.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel151.setName(""); // NOI18N
-        jPanel10.add(jLabel151);
-        jLabel151.setBounds(0, -10, 200, 70);
+        roseTextLine2.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        roseTextLine2.setForeground(new java.awt.Color(255, 153, 153));
+        roseTextLine2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        roseTextLine2.setText("list of");
+        roseTextLine2.setToolTipText("");
+        roseTextLine2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        roseTextLine2.setName(""); // NOI18N
+        roseWinePanel.add(roseTextLine2);
+        roseTextLine2.setBounds(0, 30, 200, 70);
 
-        jLabel152.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
-        jLabel152.setForeground(new java.awt.Color(255, 153, 153));
-        jLabel152.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel152.setText("rose wines");
-        jLabel152.setToolTipText("");
-        jLabel152.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel152.setName(""); // NOI18N
-        jPanel10.add(jLabel152);
-        jLabel152.setBounds(0, 70, 200, 70);
+        roseTextLine3.setFont(new java.awt.Font("Serif", 1, 30)); // NOI18N
+        roseTextLine3.setForeground(new java.awt.Color(255, 153, 153));
+        roseTextLine3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        roseTextLine3.setText("rose wines");
+        roseTextLine3.setToolTipText("");
+        roseTextLine3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        roseTextLine3.setName(""); // NOI18N
+        roseWinePanel.add(roseTextLine3);
+        roseTextLine3.setBounds(0, 70, 200, 70);
 
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
-        jLabel8.setText(" ");
-        jPanel10.add(jLabel8);
-        jLabel8.setBounds(0, 0, 208, 210);
+        roseBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/image (2).png"))); // NOI18N
+        roseBackground.setText(" ");
+        roseWinePanel.add(roseBackground);
+        roseBackground.setBounds(0, 0, 208, 210);
 
-        winePanel.add(jPanel10);
-        jPanel10.setBounds(760, 300, 200, 210);
+        winePanel.add(roseWinePanel);
+        roseWinePanel.setBounds(760, 300, 200, 210);
 
-        jLabel5.setFont(new java.awt.Font("Serif", 3, 48)); // NOI18N
-        jLabel5.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel5.setText("Our Wines");
-        winePanel.add(jLabel5);
-        jLabel5.setBounds(380, 50, 290, 40);
+        winePageTitle.setFont(new java.awt.Font("Serif", 3, 48)); // NOI18N
+        winePageTitle.setForeground(new java.awt.Color(255, 255, 255));
+        winePageTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        winePageTitle.setText("Our Wines");
+        winePanel.add(winePageTitle);
+        winePageTitle.setBounds(380, 50, 290, 40);
 
-        jLabel153.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/WINE_NOT__20250521_223250_0000.png"))); // NOI18N
-        jLabel153.setText(" ");
-        winePanel.add(jLabel153);
-        jLabel153.setBounds(0, 0, 1030, 580);
+        winePageBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/WINE_NOT__20250521_223250_0000.png"))); // NOI18N
+        winePageBackground.setText(" ");
+        winePanel.add(winePageBackground);
+        winePageBackground.setBounds(0, 0, 1030, 580);
 
         Background.add(winePanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         redPanel.setBackground(new java.awt.Color(255, 255, 255));
         redPanel.setLayout(null);
 
-        jLabel10.setFont(new java.awt.Font("Serif", 1, 40)); // NOI18N
-        jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel10.setText("Red Wines");
-        redPanel.add(jLabel10);
-        jLabel10.setBounds(400, 10, 250, 50);
+        redTitle.setFont(new java.awt.Font("Serif", 1, 40)); // NOI18N
+        redTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        redTitle.setText("Red Wines");
+        redPanel.add(redTitle);
+        redTitle.setBounds(400, 10, 250, 50);
 
-        jScrollPane1.setBackground(new java.awt.Color(179, 110, 120));
-        jScrollPane1.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        redScrollPane.setBackground(new java.awt.Color(179, 110, 120));
+        redScrollPane.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
 
         paddingPanel.setBackground(new java.awt.Color(255, 255, 255));
         paddingPanel.setBorder(javax.swing.BorderFactory.createEmptyBorder(30, 30, 0, 0));
@@ -1214,29 +1214,29 @@ public class HomePage extends javax.swing.JFrame {
         redContainerPanel.setLayout(new java.awt.GridLayout(0, 4));
         paddingPanel.add(redContainerPanel, java.awt.BorderLayout.CENTER);
 
-        jScrollPane1.setViewportView(paddingPanel);
+        redScrollPane.setViewportView(paddingPanel);
 
-        redPanel.add(jScrollPane1);
-        jScrollPane1.setBounds(40, 60, 940, 510);
+        redPanel.add(redScrollPane);
+        redScrollPane.setBounds(40, 60, 940, 510);
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
-        jLabel11.setText(" ");
-        redPanel.add(jLabel11);
-        jLabel11.setBounds(-6, -2, 1040, 580);
+        redWineBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
+        redWineBackground.setText(" ");
+        redPanel.add(redWineBackground);
+        redWineBackground.setBounds(-6, -2, 1040, 580);
 
         Background.add(redPanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         rosePanel.setBackground(new java.awt.Color(255, 255, 255));
         rosePanel.setLayout(null);
 
-        jLabel12.setFont(new java.awt.Font("Serif", 1, 40)); // NOI18N
-        jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel12.setText("Rose Wines");
-        rosePanel.add(jLabel12);
-        jLabel12.setBounds(0, 10, 1030, 50);
+        roseTitle.setFont(new java.awt.Font("Serif", 1, 40)); // NOI18N
+        roseTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        roseTitle.setText("Rose Wines");
+        rosePanel.add(roseTitle);
+        roseTitle.setBounds(0, 10, 1030, 50);
 
-        jScrollPane4.setBackground(new java.awt.Color(179, 110, 120));
-        jScrollPane4.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        roseScrollPane.setBackground(new java.awt.Color(179, 110, 120));
+        roseScrollPane.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
 
         paddingPanel1.setBackground(new java.awt.Color(255, 255, 255));
         paddingPanel1.setBorder(javax.swing.BorderFactory.createEmptyBorder(30, 30, 0, 0));
@@ -1256,29 +1256,29 @@ public class HomePage extends javax.swing.JFrame {
         roseContainerPanel.setLayout(new java.awt.GridLayout(0, 4));
         paddingPanel1.add(roseContainerPanel, java.awt.BorderLayout.CENTER);
 
-        jScrollPane4.setViewportView(paddingPanel1);
+        roseScrollPane.setViewportView(paddingPanel1);
 
-        rosePanel.add(jScrollPane4);
-        jScrollPane4.setBounds(40, 60, 940, 510);
+        rosePanel.add(roseScrollPane);
+        roseScrollPane.setBounds(40, 60, 940, 510);
 
-        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
-        jLabel13.setText(" ");
-        rosePanel.add(jLabel13);
-        jLabel13.setBounds(-6, -2, 1040, 580);
+        roseWineBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
+        roseWineBackground.setText(" ");
+        rosePanel.add(roseWineBackground);
+        roseWineBackground.setBounds(-6, -2, 1040, 580);
 
         Background.add(rosePanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
         whitePanel.setBackground(new java.awt.Color(255, 255, 255));
         whitePanel.setLayout(null);
 
-        jLabel14.setFont(new java.awt.Font("Serif", 1, 40)); // NOI18N
-        jLabel14.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel14.setText("White Wines");
-        whitePanel.add(jLabel14);
-        jLabel14.setBounds(0, 10, 1030, 50);
+        whiteTitle.setFont(new java.awt.Font("Serif", 1, 40)); // NOI18N
+        whiteTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        whiteTitle.setText("White Wines");
+        whitePanel.add(whiteTitle);
+        whiteTitle.setBounds(0, 10, 1030, 50);
 
-        jScrollPane5.setBackground(new java.awt.Color(179, 110, 120));
-        jScrollPane5.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        whiteScrollPane.setBackground(new java.awt.Color(179, 110, 120));
+        whiteScrollPane.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
 
         paddingPanel2.setBackground(new java.awt.Color(255, 255, 255));
         paddingPanel2.setBorder(javax.swing.BorderFactory.createEmptyBorder(30, 30, 0, 0));
@@ -1298,15 +1298,15 @@ public class HomePage extends javax.swing.JFrame {
         whiteContainerPanel.setLayout(new java.awt.GridLayout(0, 4));
         paddingPanel2.add(whiteContainerPanel, java.awt.BorderLayout.CENTER);
 
-        jScrollPane5.setViewportView(paddingPanel2);
+        whiteScrollPane.setViewportView(paddingPanel2);
 
-        whitePanel.add(jScrollPane5);
-        jScrollPane5.setBounds(40, 60, 940, 510);
+        whitePanel.add(whiteScrollPane);
+        whiteScrollPane.setBounds(40, 60, 940, 510);
 
-        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
-        jLabel15.setText(" ");
-        whitePanel.add(jLabel15);
-        jLabel15.setBounds(-6, -2, 1040, 580);
+        whiteWineBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/winepackage/images/freepik__make-the-background-abstract-with-soft-pastel-colo__79196.png"))); // NOI18N
+        whiteWineBackground.setText(" ");
+        whitePanel.add(whiteWineBackground);
+        whiteWineBackground.setBounds(-6, -2, 1040, 580);
 
         Background.add(whitePanel, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 1030, 580));
 
@@ -1599,13 +1599,13 @@ public class HomePage extends javax.swing.JFrame {
         accountPanel.setVisible(true);
     }//GEN-LAST:event_accountIconMouseClicked
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+    private void fullnameBaxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fullnameBaxActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
+    }//GEN-LAST:event_fullnameBaxActionPerformed
 
-    private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
+    private void emailBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_emailBoxActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField2ActionPerformed
+    }//GEN-LAST:event_emailBoxActionPerformed
 
     private void jButton35ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton35ActionPerformed
         // TODO add your handling code here:
@@ -1619,33 +1619,33 @@ public class HomePage extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton47ActionPerformed
 
-    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField4ActionPerformed
+    private void firstnameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_firstnameActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField4ActionPerformed
+    }//GEN-LAST:event_firstnameActionPerformed
 
-    private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField5ActionPerformed
+    private void surenameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_surenameActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField5ActionPerformed
+    }//GEN-LAST:event_surenameActionPerformed
 
-    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
+    private void phoneNumberActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_phoneNumberActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField6ActionPerformed
+    }//GEN-LAST:event_phoneNumberActionPerformed
 
-    private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField7ActionPerformed
+    private void emailActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_emailActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField7ActionPerformed
+    }//GEN-LAST:event_emailActionPerformed
 
-    private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField8ActionPerformed
+    private void addressActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addressActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField8ActionPerformed
+    }//GEN-LAST:event_addressActionPerformed
 
-    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField9ActionPerformed
+    private void postalCodeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_postalCodeActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField9ActionPerformed
+    }//GEN-LAST:event_postalCodeActionPerformed
 
-    private void jTextField10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField10ActionPerformed
+    private void cityActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cityActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField10ActionPerformed
+    }//GEN-LAST:event_cityActionPerformed
 
     /**
      * @param args the command line arguments
@@ -1684,108 +1684,61 @@ public class HomePage extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel Background;
+    private javax.swing.JLabel aboutBackground;
     private javax.swing.JPanel aboutPanel;
     private javax.swing.JLabel aboutTitle;
+    private javax.swing.JLabel aboutUsTitle;
     private javax.swing.JLabel accountIcon;
     private javax.swing.JPanel accountPanel;
+    private javax.swing.JTextField address;
+    private javax.swing.JLabel backgroundImg;
     private javax.swing.JPanel cartContainerPanel;
     private javax.swing.JLabel cartIcon;
+    private javax.swing.JPanel cartInfoPanel;
     private javax.swing.JPanel cartPanel;
+    private javax.swing.JScrollPane cartScrollPane;
+    private javax.swing.JTextField city;
+    private javax.swing.JLabel contTitle;
+    private javax.swing.JPanel contactContent;
     private javax.swing.JPanel contactPanel;
     private javax.swing.JLabel contactTitle;
+    private javax.swing.JTextField email;
+    private javax.swing.JTextField emailBox;
+    private javax.swing.JLabel emailInfo;
+    private javax.swing.JLabel emailLabel;
+    private javax.swing.JLabel emailMsg;
+    private javax.swing.JTextField firstname;
+    private javax.swing.JLabel fullname;
+    private javax.swing.JTextField fullnameBax;
+    private javax.swing.JLabel fullnameMsg;
     private javax.swing.JLabel heartIcon;
     private javax.swing.JPanel heartPanel;
     private javax.swing.JLabel homeLogo;
     private javax.swing.JPanel homePanel;
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
+    private javax.swing.JLabel homeTitle;
+    private javax.swing.JPanel infoPanel;
+    private javax.swing.JLabel infoTitle;
     private javax.swing.JButton jButton31;
     private javax.swing.JButton jButton33;
     private javax.swing.JButton jButton34;
     private javax.swing.JButton jButton35;
     private javax.swing.JButton jButton46;
     private javax.swing.JButton jButton47;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel11;
-    private javax.swing.JLabel jLabel12;
-    private javax.swing.JLabel jLabel125;
-    private javax.swing.JLabel jLabel126;
-    private javax.swing.JLabel jLabel127;
     private javax.swing.JLabel jLabel128;
     private javax.swing.JLabel jLabel129;
-    private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel130;
     private javax.swing.JLabel jLabel135;
     private javax.swing.JLabel jLabel136;
     private javax.swing.JLabel jLabel137;
     private javax.swing.JLabel jLabel138;
     private javax.swing.JLabel jLabel139;
-    private javax.swing.JLabel jLabel14;
     private javax.swing.JLabel jLabel140;
     private javax.swing.JLabel jLabel141;
     private javax.swing.JLabel jLabel142;
     private javax.swing.JLabel jLabel143;
-    private javax.swing.JLabel jLabel144;
-    private javax.swing.JLabel jLabel145;
-    private javax.swing.JLabel jLabel146;
-    private javax.swing.JLabel jLabel147;
-    private javax.swing.JLabel jLabel148;
-    private javax.swing.JLabel jLabel149;
-    private javax.swing.JLabel jLabel15;
-    private javax.swing.JLabel jLabel150;
-    private javax.swing.JLabel jLabel151;
-    private javax.swing.JLabel jLabel152;
-    private javax.swing.JLabel jLabel153;
-    private javax.swing.JLabel jLabel154;
-    private javax.swing.JLabel jLabel155;
-    private javax.swing.JLabel jLabel156;
-    private javax.swing.JLabel jLabel157;
-    private javax.swing.JLabel jLabel158;
-    private javax.swing.JLabel jLabel159;
-    private javax.swing.JLabel jLabel16;
-    private javax.swing.JLabel jLabel160;
-    private javax.swing.JLabel jLabel161;
-    private javax.swing.JLabel jLabel162;
-    private javax.swing.JLabel jLabel163;
-    private javax.swing.JLabel jLabel164;
-    private javax.swing.JLabel jLabel165;
-    private javax.swing.JLabel jLabel166;
-    private javax.swing.JLabel jLabel167;
-    private javax.swing.JLabel jLabel168;
-    private javax.swing.JLabel jLabel169;
-    private javax.swing.JLabel jLabel17;
-    private javax.swing.JLabel jLabel170;
-    private javax.swing.JLabel jLabel18;
-    private javax.swing.JLabel jLabel19;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel20;
-    private javax.swing.JLabel jLabel21;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
-    private javax.swing.JLabel jLabel7;
-    private javax.swing.JLabel jLabel8;
-    private javax.swing.JLabel jLabel9;
-    private javax.swing.JPanel jPanel1;
-    private javax.swing.JPanel jPanel10;
-    private javax.swing.JPanel jPanel11;
-    private javax.swing.JPanel jPanel12;
-    private javax.swing.JPanel jPanel2;
-    private javax.swing.JPanel jPanel5;
-    private javax.swing.JPanel jPanel68;
     private javax.swing.JPanel jPanel71;
-    private javax.swing.JPanel jPanel72;
     private javax.swing.JPanel jPanel73;
-    private javax.swing.JPanel jPanel74;
     private javax.swing.JPanel jPanel75;
-    private javax.swing.JPanel jPanel8;
-    private javax.swing.JScrollPane jScrollPane1;
-    private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JScrollPane jScrollPane3;
-    private javax.swing.JScrollPane jScrollPane4;
-    private javax.swing.JScrollPane jScrollPane5;
     private javax.swing.JSeparator jSeparator1;
     private javax.swing.JSeparator jSeparator2;
     private javax.swing.JSeparator jSeparator3;
@@ -1793,34 +1746,81 @@ public class HomePage extends javax.swing.JFrame {
     private javax.swing.JSeparator jSeparator5;
     private javax.swing.JSeparator jSeparator6;
     private javax.swing.JSeparator jSeparator7;
-    private javax.swing.JTextField jTextField1;
-    private javax.swing.JTextField jTextField10;
-    private javax.swing.JTextField jTextField2;
-    private javax.swing.JTextField jTextField3;
-    private javax.swing.JTextField jTextField4;
-    private javax.swing.JTextField jTextField5;
-    private javax.swing.JTextField jTextField6;
-    private javax.swing.JTextField jTextField7;
-    private javax.swing.JTextField jTextField8;
-    private javax.swing.JTextField jTextField9;
+    private javax.swing.JTextField messageBox;
+    private javax.swing.JLabel msgTitle1;
+    private javax.swing.JLabel msgTitle2;
+    private javax.swing.JLabel nameLabel;
+    private javax.swing.JLabel ourPhotoAboutUs;
     private javax.swing.JPanel paddingPanel;
     private javax.swing.JPanel paddingPanel1;
     private javax.swing.JPanel paddingPanel2;
+    private javax.swing.JLabel phone;
+    private javax.swing.JLabel phoneLabel;
+    private javax.swing.JTextField phoneNumber;
+    private javax.swing.JTextField postalCode;
+    private javax.swing.JPanel pricesPanel;
     private javax.swing.JPanel productContainerPanel;
+    private javax.swing.JLabel profileInfoTitle;
+    private javax.swing.JLabel redBackground;
+    private javax.swing.JPanel redBest;
     private javax.swing.JPanel redContainerPanel;
     private javax.swing.JPanel redPanel;
+    private javax.swing.JScrollPane redScrollPane;
+    private javax.swing.JLabel redTextLine1;
+    private javax.swing.JLabel redTextLine2;
+    private javax.swing.JLabel redTextLine3;
+    private javax.swing.JLabel redTitle;
     private javax.swing.JLabel redWine;
+    private javax.swing.JLabel redWineBackground;
+    private javax.swing.JPanel redWinePanel;
+    private javax.swing.JLabel roseBackground;
+    private javax.swing.JPanel roseBest;
     private javax.swing.JPanel roseContainerPanel;
     private javax.swing.JPanel rosePanel;
+    private javax.swing.JScrollPane roseScrollPane;
+    private javax.swing.JLabel roseTextLine1;
+    private javax.swing.JLabel roseTextLine2;
+    private javax.swing.JLabel roseTextLine3;
+    private javax.swing.JLabel roseTitle;
     private javax.swing.JLabel roseWine;
+    private javax.swing.JLabel roseWineBackground;
+    private javax.swing.JPanel roseWinePanel;
     private javax.swing.JButton searchButton;
     private javax.swing.JTextField searchField;
+    private javax.swing.JLabel shippingLb;
+    private javax.swing.JLabel shippingPrice;
     private javax.swing.JPanel sidebarPanel;
+    private javax.swing.JButton submitBtn;
+    private javax.swing.JButton submitCartBtn;
+    private javax.swing.JLabel subtitleMsg;
+    private javax.swing.JLabel subtotalLb;
+    private javax.swing.JLabel subtotalPrice;
+    private javax.swing.JTextField surename;
+    private javax.swing.JLabel title;
+    private javax.swing.JLabel titleWishlist;
+    private javax.swing.JLabel topImage;
+    private javax.swing.JLabel topImageProfile;
     private javax.swing.JPanel topbarPanel;
+    private javax.swing.JLabel totalLb;
+    private javax.swing.JLabel totalPrice;
+    private javax.swing.JLabel userIcon;
+    private javax.swing.JLabel username;
+    private javax.swing.JLabel whiteBackground;
+    private javax.swing.JPanel whiteBest;
     private javax.swing.JPanel whiteContainerPanel;
     private javax.swing.JPanel whitePanel;
+    private javax.swing.JScrollPane whiteScrollPane;
+    private javax.swing.JLabel whiteTextLine1;
+    private javax.swing.JLabel whiteTextLine2;
+    private javax.swing.JLabel whiteTextLine3;
+    private javax.swing.JLabel whiteTitle;
     private javax.swing.JLabel whiteWine;
+    private javax.swing.JLabel whiteWineBackground;
+    private javax.swing.JPanel whiteWinePanel;
+    private javax.swing.JLabel winePageBackground;
+    private javax.swing.JLabel winePageTitle;
     private javax.swing.JPanel winePanel;
     private javax.swing.JLabel wineTitle;
+    private javax.swing.JScrollPane wishlistScrollPane;
     // End of variables declaration//GEN-END:variables
 }

@@ -16,17 +16,17 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+          <Component id="cartBoxPanel" alignment="0" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+          <Component id="cartBoxPanel" alignment="0" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Container class="javax.swing.JPanel" name="jPanel2">
+    <Container class="javax.swing.JPanel" name="cartBoxPanel">
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -37,7 +37,7 @@
         <Property name="axis" type="int" value="0"/>
       </Layout>
       <SubComponents>
-        <Container class="javax.swing.JPanel" name="jPanel70">
+        <Container class="javax.swing.JPanel" name="cartBoxCont">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -49,22 +49,22 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jLabel2" min="-2" pref="172" max="-2" attributes="0"/>
+                      <Component id="cartPhoto" min="-2" pref="172" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jLabel131" min="-2" pref="298" max="-2" attributes="0"/>
-                          <Component id="jLabel132" min="-2" pref="298" max="-2" attributes="0"/>
+                          <Component id="cartTitle" min="-2" pref="298" max="-2" attributes="0"/>
+                          <Component id="cartInfo" min="-2" pref="298" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jLabel133" min="-2" pref="98" max="-2" attributes="0"/>
+                      <Component id="cartPrice" min="-2" pref="98" max="-2" attributes="0"/>
                       <EmptySpace pref="23" max="32767" attributes="0"/>
-                      <Component id="jButton2" min="-2" pref="38" max="-2" attributes="0"/>
+                      <Component id="cartMinBtn" min="-2" pref="38" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                      <Component id="jTextField1" min="-2" pref="41" max="-2" attributes="0"/>
+                      <Component id="cartNumbDisplay" min="-2" pref="41" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                      <Component id="jButton3" min="-2" pref="38" max="-2" attributes="0"/>
+                      <Component id="cartPlusBtn" min="-2" pref="38" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="jLabel3" min="-2" pref="148" max="-2" attributes="0"/>
+                      <Component id="cartSumPrice" min="-2" pref="148" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
                   </Group>
               </Group>
@@ -75,13 +75,13 @@
                       <EmptySpace pref="11" max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" alignment="1" attributes="0">
-                              <Component id="jLabel132" min="-2" max="-2" attributes="0"/>
+                              <Component id="cartInfo" min="-2" max="-2" attributes="0"/>
                               <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="1" attributes="0">
                               <Group type="103" groupAlignment="3" attributes="0">
-                                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  <Component id="jLabel131" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cartPhoto" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cartTitle" alignment="3" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace max="-2" attributes="0"/>
                           </Group>
@@ -90,11 +90,11 @@
                   <Group type="102" alignment="1" attributes="0">
                       <EmptySpace max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="jLabel133" alignment="3" min="-2" pref="101" max="-2" attributes="0"/>
-                          <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cartPrice" alignment="3" min="-2" pref="101" max="-2" attributes="0"/>
+                          <Component id="cartMinBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cartPlusBtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cartNumbDisplay" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cartSumPrice" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
@@ -102,7 +102,7 @@
             </DimensionLayout>
           </Layout>
           <SubComponents>
-            <Component class="javax.swing.JLabel" name="jLabel131">
+            <Component class="javax.swing.JLabel" name="cartTitle">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Segoe UI" size="24" style="1"/>
@@ -111,7 +111,7 @@
                 <Property name="text" type="java.lang.String" value="Zero Sauvignon Blanc"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel132">
+            <Component class="javax.swing.JLabel" name="cartInfo">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Segoe UI" size="14" style="0"/>
@@ -123,7 +123,7 @@
                 <Property name="text" type="java.lang.String" value="&#x39e;&#x3b7;&#x3c1;&#x3cc;&#x3c2;, &#x389;&#x3c0;&#x3b9;&#x3bf;&#x3c2;, &#x39b;&#x3b5;&#x3c5;&#x3ba;&#x3cc;&#x3c2;"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel133">
+            <Component class="javax.swing.JLabel" name="cartPrice">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="0" green="0" red="0" type="rgb"/>
@@ -135,7 +135,7 @@
                 <Property name="text" type="java.lang.String" value="10,60&#xa0;&#x20ac;"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel2">
+            <Component class="javax.swing.JLabel" name="cartPhoto">
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
@@ -144,7 +144,7 @@
                 <Property name="text" type="java.lang.String" value=" "/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton2">
+            <Component class="javax.swing.JButton" name="cartMinBtn">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="78" green="6e" red="b3" type="rgb"/>
@@ -152,7 +152,7 @@
                 <Property name="text" type="java.lang.String" value="-"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JButton" name="jButton3">
+            <Component class="javax.swing.JButton" name="cartPlusBtn">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="78" green="6e" red="b3" type="rgb"/>
@@ -160,16 +160,16 @@
                 <Property name="text" type="java.lang.String" value="+"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JTextField" name="jTextField1">
+            <Component class="javax.swing.JTextField" name="cartNumbDisplay">
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="text" type="java.lang.String" value=" 1"/>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1ActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cartNumbDisplayActionPerformed"/>
               </Events>
             </Component>
-            <Component class="javax.swing.JLabel" name="jLabel3">
+            <Component class="javax.swing.JLabel" name="cartSumPrice">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Liberation Sans" size="18" style="1"/>
